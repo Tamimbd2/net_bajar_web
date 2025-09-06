@@ -4,15 +4,19 @@ import Footer from '../components/Footer';
 import HeroSlider from '../components/HeroSlider';
 import ProductCard from '../components/ProductCard';
 import CategoryCard from '../components/CategoryCard';
-import { PRODUCTS, CATEGORIES } from '../constants';
+import { CATEGORIES } from '../constants';
 import { type Product } from '../types';
 
 interface HomePageProps {
+  products: Product[];
   onSelectProduct: (product: Product) => void;
   onNavigateToAbout: () => void;
+  onNavigateToAdminLogin: () => void;
+  onNavigateToAdmin: () => void;
+  isAdminLoggedIn: boolean;
 }
 
-const HomePage: React.FC<HomePageProps> = ({ onSelectProduct, onNavigateToAbout }) => {
+const HomePage: React.FC<HomePageProps> = ({ products, onSelectProduct, onNavigateToAbout, onNavigateToAdminLogin, onNavigateToAdmin, isAdminLoggedIn }) => {
   const [searchQuery, setSearchQuery] = useState('');
   const [showAllProducts, setShowAllProducts] = useState(false);
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
@@ -38,7 +42,7 @@ const HomePage: React.FC<HomePageProps> = ({ onSelectProduct, onNavigateToAbout 
     setShowAllProducts(false);
   };
 
-  const filteredProducts = PRODUCTS
+  const filteredProducts = products
     .filter(product => !selectedCategory || product.category === selectedCategory)
     .filter(product => product.name.toLowerCase().includes(searchQuery.toLowerCase()));
   
@@ -48,7 +52,14 @@ const HomePage: React.FC<HomePageProps> = ({ onSelectProduct, onNavigateToAbout 
 
   return (
     <>
-      <Header searchValue={searchQuery} onSearchChange={handleSearchChange} onNavigateToAbout={onNavigateToAbout} />
+      <Header 
+        searchValue={searchQuery} 
+        onSearchChange={handleSearchChange} 
+        onNavigateToAbout={onNavigateToAbout}
+        onNavigateToAdminLogin={onNavigateToAdminLogin}
+        onNavigateToAdmin={onNavigateToAdmin}
+        isAdminLoggedIn={isAdminLoggedIn}
+      />
       <main>
         <HeroSlider />
 
