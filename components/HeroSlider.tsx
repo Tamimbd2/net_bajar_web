@@ -26,7 +26,7 @@ const HeroSlider: React.FC = () => {
   }, [currentSlide]);
 
   return (
-    <div className="relative w-full h-[60vh] md:h-[80vh] overflow-hidden bg-black">
+    <div className="relative w-full h-[50vh] sm:h-[60vh] md:h-[75vh] overflow-hidden bg-black">
       {slides.map((slide, index) => (
         <div
           key={index}

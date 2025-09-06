@@ -68,7 +68,7 @@ const HomePage: React.FC<HomePageProps> = ({ onSelectProduct, onNavigateToAbout 
               )}
             </div>
             
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+            <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-8">
               {productsToShow.length > 0 ? (
                 productsToShow.map((product) => (
                   <ProductCard key={product.id} product={product} onSelectProduct={onSelectProduct} />
@@ -97,7 +97,7 @@ const HomePage: React.FC<HomePageProps> = ({ onSelectProduct, onNavigateToAbout 
         <section id="categories" className="py-16 sm:py-20 bg-white">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-3xl sm:text-4xl font-extrabold text-center text-black mb-12">ক্যাটাগরি অনুযায়ী কেনাকাটা</h2>
-            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 sm:gap-6">
+            <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 gap-2 sm:gap-4">
               {CATEGORIES.map((category) => (
                 <CategoryCard key={category.id} category={category} onClick={handleCategorySelect} />
               ))}

@@ -20,7 +20,7 @@ const AboutPage: React.FC<AboutPageProps> = ({ onBack }) => {
             হোমপেজে ফিরে যান
           </button>
 
-          <div className="max-w-4xl mx-auto bg-gray-50 p-8 sm:p-12 rounded-lg shadow-md">
+          <div className="max-w-4xl mx-auto bg-gray-50 p-6 sm:p-10 rounded-lg shadow-md">
             <h1 className="text-3xl sm:text-4xl font-extrabold text-black text-center mb-6">আমাদের সম্পর্কে</h1>
             <p className="text-gray-700 text-lg leading-relaxed mb-6">
               Net-Bazar হলো আপনার ফ্যাশন অনলাইন মার্কেটপ্লেস, যেখানে আপনি সহজেই নতুন ট্রেন্ডিং পোশাক কিনতে পারবেন। আমাদের লক্ষ্য হলো সর্বোত্তম মানের পণ্য, দ্রুত ডেলিভারি, এবং সরাসরি WhatsApp যোগাযোগের মাধ্যমে সহজ অর্ডারিং সুবিধা প্রদান করা।
