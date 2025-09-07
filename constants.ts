@@ -27,7 +27,7 @@ WhatsApp বাটনে ক্লিক করুন।
 export const INITIAL_PRODUCTS: Product[] = [
   {
     id: 'product-01', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 450, category: "টি শার্ট",
-    description: descriptionTemplate, imageUrl: "https://images.unsplash.com/photo-1576566588028-4147f3842f27?q=80&w=800&h=800&fit=crop"
+    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754733277_L_4.jpg"
   },
   {
     id: 'product-02', createdAt: Date.now() - 200000, name: "স্মার্ট পলো শার্ট", price: 420, category: "পলো শার্ট",
@@ -35,7 +35,7 @@ export const INITIAL_PRODUCTS: Product[] = [
   },
   {
     id: 'product-03', createdAt: Date.now() - 300000, name: "স্টাইলিশ ডেনিম শার্ট", price: 1100, category: "স্টাইলিস শার্ট",
-    description: descriptionTemplate, imageUrl: "https://images.unsplash.com/photo-1608234808399-78a5b52a4f6b?q=80&w=800&h=800&fit=crop"
+    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754733277_L_4.jpg"
   },
   {
     id: 'product-04', createdAt: Date.now() - 400000, name: "গ্রাফিক প্রিন্টেড টি-শার্ট", price: 550, category: "কাস্টম প্রিন্টেড টি-শার্ট",
