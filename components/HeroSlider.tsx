@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 const slides = [
   {
-    image: "https://shopbasebd.com/public/apps/sbrbanner-mob.png",
+    image: "https://i.postimg.cc/ZR89PR6K/Blue-Vibrant-an-White-Modern-Professional-Website-Development-Services-Banner.png",
     alt: "9.9 Anniversary Sale"
   },
   {
