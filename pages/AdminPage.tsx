@@ -18,19 +18,23 @@ const AdminPage: React.FC<AdminPageProps> = ({ onAddProduct, onBack, isSubmittin
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (!name || !category || !price || !imageUrl || !description) {
-      alert("Please fill out all fields.");
+      alert("অনুগ্রহ করে সমস্ত ক্ষেত্র পূরণ করুন।");
       return;
     }
 
-    const newProduct = {
-      name,
-      category,
-      price: parseFloat(price),
-      imageUrl: imageUrl,
-      description,
-    };
+    const isConfirmed = window.confirm("আপনি কি নিশ্চিত যে আপনি এই পণ্যটি যোগ করতে চান?");
 
-    onAddProduct(newProduct);
+    if (isConfirmed) {
+      const newProduct = {
+        name,
+        category,
+        price: parseFloat(price),
+        imageUrl: imageUrl,
+        description,
+      };
+
+      onAddProduct(newProduct);
+    }
   };
 
   return (

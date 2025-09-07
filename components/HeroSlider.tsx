@@ -4,12 +4,12 @@ const slides = [
   {
     image: "https://shopbasebd.com/public/apps/sbrbanner-mob.png",
     alt: "9.9 Anniversary Sale"
-  }
-    {
+  },
+  {
     image: "https://img.lazcdn.com/us/domino/d9a9250b-108c-4d7a-b645-edfcd41352fd_BD-1976-688.jpg_2200x2200q80.jpg_.webp",
     alt: "9.9 Anniversary Sale"
-  }
-    {
+  },
+  {
     image: "https://shopbasebd.com/public/apps/sbrbanner-mob.png",
     alt: "9.9 Anniversary Sale"
   }
