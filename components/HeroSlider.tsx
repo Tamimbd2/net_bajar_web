@@ -2,15 +2,15 @@ import React, { useState, useEffect } from 'react';
 
 const slides = [
   {
-    image: "https://i.postimg.cc/kXpxg2ck/a18efc9b-8211-4eeb-8df7-171dba9042e9-jpg.png",
+    image: "https://i.postimg.cc/02cWvGbx/5.png",
     alt: "9.9 Anniversary Sale"
   },
   {
-    image: "https://img.lazcdn.com/us/domino/d9a9250b-108c-4d7a-b645-edfcd41352fd_BD-1976-688.jpg_2200x2200q80.jpg_.webp",
+    image: "https://i.postimg.cc/659jFb6Y/6.png",
     alt: "9.9 Anniversary Sale"
   },
   {
-    image: "https://shopbasebd.com/public/apps/sbrbanner-mob.png",
+    image: "https://i.postimg.cc/t4vM3djD/4.png",
     alt: "9.9 Anniversary Sale"
   }
 ];
