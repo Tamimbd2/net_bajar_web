@@ -50,7 +50,7 @@ const HomePage: React.FC<HomePageProps> = ({ products, isLoading, error, onSelec
   
   const productsToShow = showAllProducts ? filteredProducts : filteredProducts.slice(0, 8);
 
-  const sectionTitle = selectedCategory ? `"${selectedCategory}"` : "বিশেষ পণ্য";
+  
 
   const renderProductGrid = () => {
     if (error) {
@@ -101,7 +101,7 @@ const HomePage: React.FC<HomePageProps> = ({ products, isLoading, error, onSelec
                   ফিল্টার সরান
                 </button>
               ) : (
-                <p className="text-gray-600 max-w-2xl mx-auto">এই মৌসুমের সেরা স্টাইলগুলো থেকে আমাদের বাছাই করা কালেকশন আবিষ্কার করুন। প্রতিটি সুতোয় গুণমান এবং আরাম।</p>
+                <p className="text-gray-600 max-w-2xl mx-auto">আপনার পছন্দের সেরা পণ্যটি এখুনি নিয়ে নিন ক্যাশ অন হোম ডেলিভারিতে </p>
               )}
             </div>
             
