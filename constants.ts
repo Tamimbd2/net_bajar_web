@@ -32,14 +32,14 @@ const initialProducts: Product[] = [
   {
     id: 2,
     name: "স্ট্রাইপড পোলো শার্ট",
-    price: 45.00,
+    price: 400.00,
     category: "পলো শার্ট",
     description: `আমাদের স্ট্রাইপড পোলো শার্টের সাথে আপনার স্মার্ট-ক্যাজুয়াল লুককে আরও উন্নত করুন।
 Fabrics: কটন পিকে
 Type: পোলো কলার
 Print: স্ট্রাইপ
 ${commonDetails}`,
-    images: ["https://shopbasebd.com/public/uploads/shop/products/1756648190_L_20.jpg", "https://shopbasebd.com/public/uploads/shop/products/1756648190_L_17.jpg", "https://images.unsplash.com/photo-1594938299898-0055b4a55d72?q=80&w=800&h=800&fit=crop"],
+    images: ["https://shopbasebd.com/public/uploads/shop/products/1756648190_L_20.jpg", "https://shopbasebd.com/public/uploads/shop/products/1756648190_L_17.jpg", "https://shopbasebd.com/public/uploads/shop/products/1756648190_L_20.jpg"],
   },
   {
     id: 3,
