@@ -46,7 +46,7 @@ const Header: React.FC<HeaderProps> = ({ searchValue, onSearchChange, onNavigate
             </div>
 
             <nav className="hidden md:flex space-x-8 ml-8 items-center">
-              <a href="#featured" className="text-gray-600 hover:text-[#FF0061] transition-colors duration-300">বিশেষ পণ্য</a>
+              
               <a href="#categories" className="text-gray-600 hover:text-[#FF0061] transition-colors duration-300">ক্যাটাগরি</a>
               <button onClick={onNavigateToAbout} className="text-gray-600 hover:text-[#FF0061] transition-colors duration-300">আমাদের সম্পর্কে</button>
               <button onClick={handleAdminClick} className="text-gray-600 hover:text-[#FF0061] transition-colors duration-300 font-semibold">{adminButtonText}</button>
