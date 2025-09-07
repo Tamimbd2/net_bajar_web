@@ -39,7 +39,7 @@ Fabrics: কটন পিকে
 Type: পোলো কলার
 Print: স্ট্রাইপ
 ${commonDetails}`,
-    images: ["https://images.unsplash.com/photo-1625905294245-78e705b4c1de?q=80&w=800&h=800&fit=crop", "https://images.unsplash.com/photo-1619038239003-8defd774bc14?q=80&w=800&h=800&fit=crop", "https://images.unsplash.com/photo-1594938299898-0055b4a55d72?q=80&w=800&h=800&fit=crop"],
+    images: ["https://shopbasebd.com/public/uploads/shop/products/1756648190_L_20.jpg", "https://shopbasebd.com/public/uploads/shop/products/1756648190_L_17.jpg", "https://images.unsplash.com/photo-1594938299898-0055b4a55d72?q=80&w=800&h=800&fit=crop"],
   },
   {
     id: 3,
