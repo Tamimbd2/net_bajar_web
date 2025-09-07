@@ -30,8 +30,8 @@ export const INITIAL_PRODUCTS: Product[] = [
     description: descriptionTemplate, imageUrl: "https://images.unsplash.com/photo-1576566588028-4147f3842f27?q=80&w=800&h=800&fit=crop"
   },
   {
-    id: 'product-02', createdAt: Date.now() - 200000, name: "স্মার্ট পলো শার্ট", price: 750, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://images.unsplash.com/photo-1621359318359-57e0b57e7b41?q=80&w=800&h=800&fit=crop"
+    id: 'product-02', createdAt: Date.now() - 200000, name: "স্মার্ট পলো শার্ট", price: 420, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1756726794_L_1.jpg"
   },
   {
     id: 'product-03', createdAt: Date.now() - 300000, name: "স্টাইলিশ ডেনিম শার্ট", price: 1100, category: "স্টাইলিস শার্ট",
