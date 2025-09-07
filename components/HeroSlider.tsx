@@ -2,16 +2,16 @@ import React, { useState, useEffect } from 'react';
 
 const slides = [
   {
-    image: "https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=1600&h=800&fit=crop&crop=entropy",
-    alt: "Summer Collection"
-  },
-  {
-    image: "https://images.unsplash.com/photo-1445205170230-053b83016050?q=80&w=1600&h=800&fit=crop&crop=entropy",
-    alt: "Exclusive Festive Wear"
-  },
-  {
-    image: "https://images.unsplash.com/photo-1523381294911-8d3cead13475?q=80&w=1600&h=800&fit=crop&crop=entropy",
-    alt: "Custom T-shirts"
+    image: "https://shopbasebd.com/public/apps/sbrbanner-mob.png",
+    alt: "9.9 Anniversary Sale"
+  }
+    {
+    image: "https://img.lazcdn.com/us/domino/d9a9250b-108c-4d7a-b645-edfcd41352fd_BD-1976-688.jpg_2200x2200q80.jpg_.webp",
+    alt: "9.9 Anniversary Sale"
+  }
+    {
+    image: "https://shopbasebd.com/public/apps/sbrbanner-mob.png",
+    alt: "9.9 Anniversary Sale"
   }
 ];
 
@@ -19,14 +19,16 @@ const HeroSlider: React.FC = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
 
   useEffect(() => {
-    const timer = setTimeout(() => {
-      setCurrentSlide((prevSlide) => (prevSlide + 1) % slides.length);
-    }, 5000);
-    return () => clearTimeout(timer);
+    if (slides.length > 1) {
+      const timer = setTimeout(() => {
+        setCurrentSlide((prevSlide) => (prevSlide + 1) % slides.length);
+      }, 5000);
+      return () => clearTimeout(timer);
+    }
   }, [currentSlide]);
 
   return (
-    <div className="relative w-full h-[50vh] sm:h-[60vh] md:h-[75vh] overflow-hidden bg-black">
+    <div className="relative w-full h-[30vh] sm:h-[40vh] md:h-[50vh] overflow-hidden bg-black">
       {slides.map((slide, index) => (
         <div
           key={index}
@@ -34,21 +36,23 @@ const HeroSlider: React.FC = () => {
             index === currentSlide ? 'opacity-100' : 'opacity-0'
           }`}
         >
-          <img src={slide.image} alt={slide.alt} className="w-full h-full object-cover" />
+          <img src={slide.image} alt={slide.alt} className="w-full h-full object-contain" />
         </div>
       ))}
-       <div className="absolute bottom-5 left-1/2 -translate-x-1/2 flex space-x-2">
-        {slides.map((_, index) => (
-          <button
-            key={index}
-            onClick={() => setCurrentSlide(index)}
-            aria-label={`Go to slide ${index + 1}`}
-            className={`w-3 h-3 rounded-full transition-colors duration-300 ${
-              index === currentSlide ? 'bg-white' : 'bg-white/50 hover:bg-white'
-            }`}
-          />
-        ))}
-      </div>
+       {slides.length > 1 && (
+        <div className="absolute bottom-5 left-1/2 -translate-x-1/2 flex space-x-2">
+            {slides.map((_, index) => (
+            <button
+                key={index}
+                onClick={() => setCurrentSlide(index)}
+                aria-label={`Go to slide ${index + 1}`}
+                className={`w-3 h-3 rounded-full transition-colors duration-300 ${
+                index === currentSlide ? 'bg-white' : 'bg-white/50 hover:bg-white'
+                }`}
+            />
+            ))}
+        </div>
+       )}
     </div>
   );
 };
