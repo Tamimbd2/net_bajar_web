@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import HomePage from './pages/HomePage';
 import ProductDetailPage from './pages/ProductDetailPage';
 import AboutPage from './pages/AboutPage';
@@ -11,10 +11,16 @@ const ADMIN_CODE = '221002257';
 
 const App: React.FC = () => {
   const [page, setPage] = useState<'home' | 'product' | 'about' | 'admin' | 'admin-login'>('home');
-  const [products, setProducts] = useState<Product[]>(INITIAL_PRODUCTS);
+  
+  const sortedInitialProducts = [...INITIAL_PRODUCTS].sort((a, b) => b.createdAt - a.createdAt);
+  const [products, setProducts] = useState<Product[]>(sortedInitialProducts);
+  const [isLoading, setIsLoading] = useState(false);
+  const [fetchError, setFetchError] = useState<string | null>(null);
+
   const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
   const [isAdminLoggedIn, setIsAdminLoggedIn] = useState(false);
   const [loginError, setLoginError] = useState<string | null>(null);
+  const [isSubmitting, setIsSubmitting] = useState(false);
 
   const handleSelectProduct = (product: Product) => {
     setSelectedProduct(product);
@@ -55,19 +61,32 @@ const App: React.FC = () => {
     }
   };
 
+  const handleAddProduct = async (newProduct: Omit<Product, 'id' | 'createdAt'>) => {
+    setIsSubmitting(true);
+    // লোকালভাবে পণ্য যোগ করার জন্য একটি async অপারেশন সিমুলেট করা হচ্ছে
+    await new Promise(resolve => setTimeout(resolve, 500));
 
-  const handleAddProduct = (newProduct: Omit<Product, 'id'>) => {
+    const newProductWithIdAndTimestamp: Product = {
+      ...newProduct,
+      id: `product-${Date.now()}`, // একটি ইউনিক আইডি তৈরি করা হচ্ছে
+      createdAt: Date.now(),
+    };
+
     setProducts(prevProducts => [
-      { ...newProduct, id: Date.now() }, 
-      ...prevProducts
+      newProductWithIdAndTimestamp,
+      ...prevProducts,
     ]);
-    alert("Product added successfully!");
+
+    alert("পণ্য সফলভাবে যোগ করা হয়েছে!");
     handleGoHome();
+    setIsSubmitting(false);
   };
 
   const renderPage = () => {
     const homePageProps = {
         products,
+        isLoading,
+        error: fetchError,
         onSelectProduct: handleSelectProduct,
         onNavigateToAbout: handleShowAbout,
         onNavigateToAdmin: handleShowAdmin,
@@ -81,7 +100,7 @@ const App: React.FC = () => {
       case 'about':
         return <AboutPage onBack={handleGoHome} />;
       case 'admin':
-        return isAdminLoggedIn ? <AdminPage onAddProduct={handleAddProduct} onBack={handleGoHome} /> : <AdminLoginPage onLoginAttempt={handleLoginAttempt} onBack={handleGoHome} error={loginError} />;
+        return isAdminLoggedIn ? <AdminPage onAddProduct={handleAddProduct} onBack={handleGoHome} isSubmitting={isSubmitting} /> : <AdminLoginPage onLoginAttempt={handleLoginAttempt} onBack={handleGoHome} error={loginError} />;
       case 'admin-login':
         return <AdminLoginPage onLoginAttempt={handleLoginAttempt} onBack={handleGoHome} error={loginError} />;
       case 'home':

@@ -9,6 +9,8 @@ import { type Product } from '../types';
 
 interface HomePageProps {
   products: Product[];
+  isLoading: boolean;
+  error: string | null;
   onSelectProduct: (product: Product) => void;
   onNavigateToAbout: () => void;
   onNavigateToAdminLogin: () => void;
@@ -16,7 +18,7 @@ interface HomePageProps {
   isAdminLoggedIn: boolean;
 }
 
-const HomePage: React.FC<HomePageProps> = ({ products, onSelectProduct, onNavigateToAbout, onNavigateToAdminLogin, onNavigateToAdmin, isAdminLoggedIn }) => {
+const HomePage: React.FC<HomePageProps> = ({ products, isLoading, error, onSelectProduct, onNavigateToAbout, onNavigateToAdminLogin, onNavigateToAdmin, isAdminLoggedIn }) => {
   const [searchQuery, setSearchQuery] = useState('');
   const [showAllProducts, setShowAllProducts] = useState(false);
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
@@ -50,6 +52,30 @@ const HomePage: React.FC<HomePageProps> = ({ products, onSelectProduct, onNaviga
 
   const sectionTitle = selectedCategory ? `"${selectedCategory}"` : "বিশেষ পণ্য";
 
+  const renderProductGrid = () => {
+    if (error) {
+      return (
+        <div className="col-span-full text-center p-8 bg-red-100 border border-red-400 text-red-700 rounded-lg">
+          <h3 className="font-bold text-lg mb-2">পণ্য লোড করতে সমস্যা হয়েছে</h3>
+          <p>{error}</p>
+        </div>
+      );
+    }
+    if (isLoading) {
+      return <p className="col-span-full text-center text-gray-500 text-lg">পণ্য লোড হচ্ছে...</p>;
+    }
+    if (productsToShow.length > 0) {
+      return productsToShow.map((product) => (
+        <ProductCard key={product.id} product={product} onSelectProduct={onSelectProduct} />
+      ));
+    }
+    return (
+      <p className="col-span-full text-center text-gray-500 text-lg">
+        {selectedCategory ? 'এই ক্যাটাগরিতে কোনো পণ্য পাওয়া যায়নি।' : 'আপনার অনুসন্ধানের সাথে মেলে এমন কোনো পণ্য পাওয়া যায়নি।'}
+      </p>
+    );
+  };
+
   return (
     <>
       <Header 
@@ -80,15 +106,7 @@ const HomePage: React.FC<HomePageProps> = ({ products, onSelectProduct, onNaviga
             </div>
             
             <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-8">
-              {productsToShow.length > 0 ? (
-                productsToShow.map((product) => (
-                  <ProductCard key={product.id} product={product} onSelectProduct={onSelectProduct} />
-                ))
-              ) : (
-                <p className="col-span-full text-center text-gray-500 text-lg">
-                  {selectedCategory ? 'এই ক্যাটাগরিতে কোনো পণ্য পাওয়া যায়নি।' : 'আপনার অনুসন্ধানের সাথে মেলে এমন কোনো পণ্য পাওয়া যায়নি।'}
-                </p>
-              )}
+              {renderProductGrid()}
             </div>
             
             {!showAllProducts && filteredProducts.length > 8 && (

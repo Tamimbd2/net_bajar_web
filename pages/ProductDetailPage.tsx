@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { type Product } from '../types';
 import { WHATSAPP_NUMBER } from '../constants';
 
@@ -8,10 +8,8 @@ interface ProductDetailPageProps {
 }
 
 const ProductDetailPage: React.FC<ProductDetailPageProps> = ({ product, onBack }) => {
-  const [mainImage, setMainImage] = useState(product.images[0]);
-
   const whatsappMessage = encodeURIComponent(
-    `হ্যালো নেট-বাজার, আমি এই পণ্যটি অর্ডার করতে আগ্রহী: ${product.name} (আইডি: ${product.id})।`
+    `হ্যালো নেট-বাজার,\n\nআমি এই পণ্যটি অর্ডার করতে আগ্রহী:\n\n*পণ্য:* ${product.name}\n*আইডি:* ${product.id}\n\n*ছবি:* ${product.imageUrl}`
   );
   const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${whatsappMessage}`;
 
@@ -29,23 +27,10 @@ const ProductDetailPage: React.FC<ProductDetailPageProps> = ({ product, onBack }
         </button>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-16">
-          {/* Image Gallery */}
+          {/* Image */}
           <div>
-            <div className="aspect-square bg-gray-100 rounded-lg overflow-hidden shadow-lg mb-4">
-              <img src={mainImage} alt={product.name} className="w-full h-full object-cover" />
-            </div>
-            <div className="grid grid-cols-4 gap-2">
-              {product.images.map((img, index) => (
-                <div
-                  key={index}
-                  onClick={() => setMainImage(img)}
-                  className={`aspect-square bg-gray-100 rounded-md overflow-hidden cursor-pointer border-2 transition-all duration-200 ${
-                    mainImage === img ? 'border-[#FF0061]' : 'border-transparent hover:border-gray-300'
-                  }`}
-                >
-                  <img src={img} alt={`${product.name} thumbnail ${index + 1}`} className="w-full h-full object-cover" />
-                </div>
-              ))}
+            <div className="aspect-square bg-gray-100 rounded-lg overflow-hidden shadow-lg">
+              <img src={product.imageUrl} alt={product.name} className="w-full h-full object-cover" />
             </div>
           </div>
 
