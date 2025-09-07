@@ -49,7 +49,7 @@ const HomePage: React.FC<HomePageProps> = ({ products, isLoading, error, onSelec
     .filter(product => product.name.toLowerCase().includes(searchQuery.toLowerCase()));
   
   const productsToShow = showAllProducts ? filteredProducts : filteredProducts.slice(0, 8);
-
+ const sectionTitle = selectedCategory ? `"${selectedCategory}"` : "বিশেষ পণ্য";
   
 
   const renderProductGrid = () => {
