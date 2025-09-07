@@ -30,12 +30,12 @@ export const INITIAL_PRODUCTS: Product[] = [
     description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754733277_L_4.jpg"
   },
   {
-    id: 'product-51', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 455, category: "টি শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754733277_L_4.jpg"
+    id: 'product-51', createdAt: Date.now() - 100000, name: "Drop Shoulder Tshirt", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1756648190_L_19.jpg"
   },
     {
-    id: 'product-52', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 480, category: "টি শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754733277_L_4.jpg"
+    id: 'product-52', createdAt: Date.now() - 100000, name: "Drop Shoulder Tshirt", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1756648190_L_17.jpg"
   },
 
 
