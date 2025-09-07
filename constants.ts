@@ -22,7 +22,7 @@ WhatsApp বাটনে ক্লিক করুন।
 `;
 
 const newTshirtProducts: Product[] = [
-  { id: 201, name: "হাফ হাতা প্রিমিয়াম টি-শার্ট [S-01]", price: 350 + 200, category: "টি-শার্ট", description: `পুরুষদের জন্য একটি আরামদায়ক এবং স্টাইলিশ প্রিমিয়াম টি-শার্ট।\nFabrics: ১০০% প্রিমিয়াম কটন\nType: রাউন্ড নেক\nPrint: সলিড\n${commonDetails}`, images: ["https://shopbasebd.com/public/storage/product/image/3-1698731309.jpeg", "https://shopbasebd.com/public/storage/product/image/3-1698731309.jpeg", "https://shopbasebd.com/public/storage/product/image/3-1698731309.jpeg"] },
+  { id: 201, name: "হাফ হাতা প্রিমিয়াম টি-শার্ট [S-01]", price: 350 + 200, category: "টি-শার্ট", description: `পুরুষদের জন্য একটি আরামদায়ক এবং স্টাইলিশ প্রিমিয়াম টি-শার্ট।\nFabrics: ১০০% প্রিমিয়াম কটন\nType: রাউন্ড নেক\nPrint: সলিড\n${commonDetails}`, images: ["https://i.postimg.cc/xTCDXZ6h/PXL-20250907-055756104.jpg", "https://shopbasebd.com/public/storage/product/image/3-1698731309.jpeg", "https://shopbasebd.com/public/storage/product/image/3-1698731309.jpeg"] },
   { id: 202, name: "হাফ হাতা প্রিমিয়াম টি-শার্ট [S-02]", price: 350 + 200, category: "টি-শার্ট", description: `পুরুষদের জন্য একটি আরামদায়ক এবং স্টাইলিশ প্রিমিয়াম টি-শার্ট।\nFabrics: ১০০% প্রিমিয়াম কটন\nType: রাউন্ড নেক\nPrint: সলিড\n${commonDetails}`, images: ["https://shopbasebd.com/public/storage/product/image/4-1698731454.jpeg", "https://shopbasebd.com/public/storage/product/image/4-1698731454.jpeg", "https://shopbasebd.com/public/storage/product/image/4-1698731454.jpeg"] },
 
 
