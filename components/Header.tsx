@@ -68,7 +68,7 @@ const Header: React.FC<HeaderProps> = ({ searchValue, onSearchChange, onNavigate
         {isMenuOpen && (
           <div className="absolute top-full left-0 w-full bg-white shadow-lg md:hidden">
             <nav className="flex flex-col p-4 space-y-3">
-              <a href="#featured" onClick={() => setIsMenuOpen(false)} className="text-gray-600 hover:text-[#FF0061] p-2 rounded-md transition-colors duration-300">বিশেষ পণ্য</a>
+              <a href="#featured" onClick={() => setIsMenuOpen(false)} className="text-gray-600 hover:text-[#FF0061] p-2 rounded-md transition-colors duration-300"></a>
               <a href="#categories" onClick={() => setIsMenuOpen(false)} className="text-gray-600 hover:text-[#FF0061] p-2 rounded-md transition-colors duration-300">ক্যাটাগরি</a>
               <button onClick={() => { onNavigateToAbout(); setIsMenuOpen(false); }} className="text-left text-gray-600 hover:text-[#FF0061] p-2 rounded-md transition-colors duration-300">আমাদের সম্পর্কে</button>
               <button onClick={() => { handleAdminClick(); setIsMenuOpen(false); }} className="text-left text-gray-600 hover:text-[#FF0061] p-2 rounded-md transition-colors duration-300 font-semibold">{adminButtonText}</button>
