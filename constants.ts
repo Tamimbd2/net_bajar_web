@@ -118,10 +118,25 @@ export const INITIAL_PRODUCTS: Product[] = [
 
 //টিসার্ট এরিয়া -- আইডি ৩০০-৫০০ পর্যন্ত 
 
+  {
+    id: 'product-300', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 450, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754733277_L_4.jpg"
+  },
+    {
+    id: 'product-301', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 450, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754733277_L_4.jpg"
+  },
 
-  
-  
 
+
+      
+  //সার্ট এরিয়া -- আইডি 500-700 পর্যন্ত 
+
+    
+    {
+    id: 'product-500', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন শার্ট", price: 450, category: "স্টাইলিস শার্ট",
+    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1755954480_L_10.jpg"
+  },
 
 ];
 
