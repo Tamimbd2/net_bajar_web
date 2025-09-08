@@ -126,7 +126,14 @@ export const INITIAL_PRODUCTS: Product[] = [
     id: 'product-301', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 450, category: "টি শার্ট",
     description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754733277_L_4.jpg"
   },
-
+  {
+    id: 'product-302', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 450, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752069958_L_10.jpg"
+  },
+    {
+    id: 'product-303', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 450, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752069858_L_19.jpg"
+  },
 
 
       
