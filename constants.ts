@@ -77,6 +77,23 @@ export const INITIAL_PRODUCTS: Product[] = [
 
 
 
+
+
+
+
+
+
+        
+  //কাস্টম প্রিন্টেড টি-শার্ট -- আইডি 700-900 পর্যন্ত 
+
+    {
+    id: 'product-700', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন শার্ট", price: 450, category: "কাস্টম প্রিন্টেড টি-শার্ট",
+    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1755954480_L_10.jpg"
+  },
+
+
+
+  
   
 
 ];
