@@ -25,18 +25,19 @@ WhatsApp বাটনে ক্লিক করুন।
 
 // Products are now loaded as if from a database.
 export const INITIAL_PRODUCTS: Product[] = [
+
+
+  
+
+
+//টিসার্ট এরিয়া -- আইডি ৩০০-৫০০ পর্যন্ত 
+
   {
-    id: 'product-01', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 450, category: "টি শার্ট",
+    id: 'product-300', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 450, category: "টি শার্ট",
     description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754733277_L_4.jpg"
   },
-  {
-    id: 'product-51', createdAt: Date.now() - 100000, name: "Drop Shoulder Tshirt", price: 420, category: "টি শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1756648190_L_19.jpg"
-  },
-    {
-    id: 'product-52', createdAt: Date.now() - 100000, name: "Drop Shoulder Tshirt", price: 420, category: "টি শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1756648190_L_17.jpg"
-  },
+
+
 
 
 
@@ -53,60 +54,6 @@ export const INITIAL_PRODUCTS: Product[] = [
     id: 'product-53', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 450, category: "পলো শার্ট",
     description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754418044_L_1.jpg"
   },
-{
-    id: 'product-54', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 450, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754417840_L_2.jpg"
-  },{
-    id: 'product-55', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 450, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754417917_L_1.jpg"
-  },
-  
-{
-    id: 'product-56', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 450, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1740592172_S_4.jpg"
-  },
-{
-    id: 'product-57', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 450, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754418044_L_1.jpg"
-  },{
-    id: 'product-58', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 450, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754418044_L_1.jpg"
-  },
-
-{
-    id: 'product-59', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 450, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754418044_L_1.jpg"
-  },
-{
-    id: 'product-60', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 450, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754418044_L_1.jpg"
-  },{
-    id: 'product-53', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 450, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754418044_L_1.jpg"
-  },
-
-
-{
-    id: 'product-53', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 450, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754418044_L_1.jpg"
-  },
-{
-    id: 'product-53', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 450, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754418044_L_1.jpg"
-  },{
-    id: 'product-53', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 450, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754418044_L_1.jpg"
-  },
-
-  {
-    id: 'product-02', createdAt: Date.now() - 200000, name: "স্মার্ট পলো শার্ট", price: 420, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1756726794_L_1.jpg"
-  },
-
-{
-    id: 'product-54', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 450, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754418044_L_1.jpg"
-  },
 
 
 
@@ -116,27 +63,6 @@ export const INITIAL_PRODUCTS: Product[] = [
 
 
 
-
-
-
-//টিসার্ট এরিয়া -- আইডি ৩০০-৫০০ পর্যন্ত 
-
-  {
-    id: 'product-300', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 450, category: "টি শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754733277_L_4.jpg"
-  },
-    {
-    id: 'product-301', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 450, category: "টি শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1754733277_L_4.jpg"
-  },
-  {
-    id: 'product-302', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 450, category: "টি শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752069958_L_10.jpg"
-  },
-    {
-    id: 'product-303', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 450, category: "টি শার্ট",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752069858_L_19.jpg"
-  },
 
 
       
@@ -147,6 +73,11 @@ export const INITIAL_PRODUCTS: Product[] = [
     id: 'product-500', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন শার্ট", price: 450, category: "স্টাইলিস শার্ট",
     description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1755954480_L_10.jpg"
   },
+
+
+
+
+  
 
 ];
 
