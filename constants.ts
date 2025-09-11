@@ -62,18 +62,50 @@ export const INITIAL_PRODUCTS: Product[] = [
 
 
 {
+    id: 'product-55', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/nzCV1PhN/1737397274-L-2-2.jpg"
+  },
+
+
+{
     id: 'product-56', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
     description: descriptionTemplate, imageUrl: "https://i.postimg.cc/nzCV1PhN/1737397274-L-2-2.jpg"
   },
 
 
 
+{
+    id: 'product-57', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/k5wDsSFR/1739378913-L-2-2.jpg"
+  },
 
 
 
+{
+    id: 'product-58', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/JzpGcJQD/1739378913-L-4-2.jpg"
+  },
 
+  {
+    id: 'product-59', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/3r2NfzBH/1739378913-L-3-1.jpg"
+  },
 
-      
+{
+    id: 'product-60', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/c49SFcVS/1739378913-L-6-2.jpg"
+  },
+
+ {
+    id: 'product-', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/3r2NfzBH/1739378913-L-3-1.jpg"
+  },
+
+ {
+    id: 'product-59', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/3r2NfzBH/1739378913-L-3-1.jpg"
+  },
+  
   //সার্ট এরিয়া -- আইডি 500-700 পর্যন্ত 
 
     
