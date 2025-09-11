@@ -239,8 +239,8 @@ export const INITIAL_PRODUCTS: Product[] = [
   },
 
 {
-    id: 'product-86', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/kMtR3fQ7/1746432746-L-2-1.jpg"
+    id: 'product-89', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/W12t8Jwc/1746285137-L-1-2.jpg"
   },
 
 {
