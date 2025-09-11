@@ -102,7 +102,17 @@ export const INITIAL_PRODUCTS: Product[] = [
     id: 'product-61', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
     description: descriptionTemplate, imageUrl: "https://i.postimg.cc/7ZX1j5q0/1750410897-L-3-1.jpg"
   },
-  
+
+{
+    id: 'product-62', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/j55t8CqL/1750410897-L-2-1.jpg"
+  },
+
+  {
+    id: 'product-62', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: ""
+  },
+
   //সার্ট এরিয়া -- আইডি 500-700 পর্যন্ত 
 
     
