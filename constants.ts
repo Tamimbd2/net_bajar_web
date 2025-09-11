@@ -134,28 +134,28 @@ export const INITIAL_PRODUCTS: Product[] = [
   },
 
 {
-    id: 'product-65', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/26C7tnZQ/1737397374-L-1.jpg"
+    id: 'product-68', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/QCQK1dmf/1746432622-L-2-2.jpg"
   },
 
 {
-    id: 'product-65', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/26C7tnZQ/1737397374-L-1.jpg"
+    id: 'product-69', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/TPYgdqY1/1746432622-L-3-2.jpg"
   },
 
 {
-    id: 'product-65', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/26C7tnZQ/1737397374-L-1.jpg"
+    id: 'product-70', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/x1sqRrnj/1746432622-L-5-2.jpg"
   },
 
 {
-    id: 'product-65', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/26C7tnZQ/1737397374-L-1.jpg"
+    id: 'product-71', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://postimg.cc/GBLS7Bnz"
   },
 
 {
-    id: 'product-65', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
-    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/26C7tnZQ/1737397374-L-1.jpg"
+    id: 'product-72', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/kg093vqt/1746432622-L-4-1.jpg"
   },
 
 {
