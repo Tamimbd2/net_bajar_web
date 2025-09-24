@@ -345,8 +345,28 @@ export const INITIAL_PRODUCTS: Product[] = [
   },
 
 {
-    id: 'product-110', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    id: 'product-110', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 440, category: "পলো শার্ট",
     description: descriptionTemplate, imageUrl: "https://i.postimg.cc/zB4J9N6T/1752068830-L-1-5.jpg"
+  },
+
+{
+    id: 'product-111', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 440, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/Qt7LKTYW/1752068830-L-2-4.jpg"
+  },
+
+{
+    id: 'product-112', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 440, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/TwgS3XhV/1752068830-L-3-4.jpg"
+  },
+
+{
+    id: 'product-113', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/c1c99h3L/1752068830-L-4-4.jpg"
+  },
+
+{
+    id: 'product-111', createdAt: Date.now() - 100000, name: "স্মার্ট পলো শার্ট", price: 430, category: "পলো শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/Qt7LKTYW/1752068830-L-2-4.jpg"
   },
 
 {
