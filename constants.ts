@@ -62,6 +62,53 @@ export const INITIAL_PRODUCTS: Product[] = [
     id: 'product-305', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
     description: descriptionTemplate, imageUrl: "https://i.postimg.cc/mZVmLcvk/1756648120-L-20-1.jpg"
   },
+
+{
+    id: 'product-306', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/dthQnCvT/1756648190-L-5-2.jpg"
+  },
+
+{
+    id: 'product-307', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/XYVbmy68/1756648190-L-15-3.jpg"
+  },
+
+
+{
+    id: 'product-308', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/YSGysp0R/1756648120-L-15-4.jpg"
+  },
+
+{
+    id: 'product-309', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/65pcP91Z/1756648120-L-19-3.jpg"
+  },
+
+{
+    id: 'product-310', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/mZVmLcvk/1756648120-L-20-1.jpg"
+  },
+
+{
+    id: 'product-311', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/sxvBp0wM/1756648190-L-13-5.jpg"
+  },
+
+{
+    id: 'product-305', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/mZVmLcvk/1756648120-L-20-1.jpg"
+  },
+
+{
+    id: 'product-305', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/mZVmLcvk/1756648120-L-20-1.jpg"
+  },
+
+
+{
+    id: 'product-305', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/mZVmLcvk/1756648120-L-20-1.jpg"
+  },
   
 //পোলো টিসার্ট এরিয়া -- আইডি ৫৩-৩০০ পর্যন্ত 
   
