@@ -39,10 +39,29 @@ export const INITIAL_PRODUCTS: Product[] = [
   },
 
 {
-    id: 'product-300', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    id: 'product-301', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
     description: descriptionTemplate, imageUrl: "https://i.postimg.cc/zDcNMQ2d/1756648190-L-7-5.jpg"
   },
 
+{
+    id: 'product-302', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/yNThYtD9/1756648190-L-14-1.jpg"
+  },
+
+{
+    id: 'product-303', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/pdPGZD8f/1756648190-L-6-5.jpg"
+  },
+
+{
+    id: 'product-304', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/zDcNMQ2d/1756648190-L-7-5.jpg"
+  },
+
+{
+    id: 'product-305', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/mZVmLcvk/1756648120-L-20-1.jpg"
+  },
   
 //পোলো টিসার্ট এরিয়া -- আইডি ৫৩-৩০০ পর্যন্ত 
   
