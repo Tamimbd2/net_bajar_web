@@ -95,19 +95,34 @@ export const INITIAL_PRODUCTS: Product[] = [
   },
 
 {
-    id: 'product-305', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
-    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/mZVmLcvk/1756648120-L-20-1.jpg"
+    id: 'product-312', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/SspjGnHn/1756648120-L-7-1.jpg"
   },
 
 {
-    id: 'product-305', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    id: 'product-313', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
     description: descriptionTemplate, imageUrl: "https://i.postimg.cc/mZVmLcvk/1756648120-L-20-1.jpg"
   },
 
 
 {
-    id: 'product-305', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
-    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/mZVmLcvk/1756648120-L-20-1.jpg"
+    id: 'product-314', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/QxRBMYSm/1756648120-L-9-2.jpg"
+  },
+
+{
+    id: 'product-315', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/dtMksS5G/1756648120-L-17-4.jpg"
+  },
+
+{
+    id: 'product-316', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/QCCbjYSt/1756648120-L-11-3.jpg"
+  },
+
+{
+    id: 'product-317', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
+    description: descriptionTemplate, imageUrl: "https://i.postimg.cc/yYvDmYVt/1756648120-L-14-1.jpg"
   },
   
 //পোলো টিসার্ট এরিয়া -- আইডি ৫৩-৩০০ পর্যন্ত 
