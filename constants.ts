@@ -39,7 +39,7 @@ export const INITIAL_PRODUCTS: Product[] = [
   },
 
 {
-    id: 'product-300', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 450, category: "টি শার্ট",
+    id: 'product-300', createdAt: Date.now() - 100000, name: "ক্যাজুয়াল কটন টি-শার্ট", price: 420, category: "টি শার্ট",
     description: descriptionTemplate, imageUrl: "https://i.postimg.cc/zDcNMQ2d/1756648190-L-7-5.jpg"
   },
 
