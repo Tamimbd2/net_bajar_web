@@ -5455,6 +5455,200 @@ export const INITIAL_PRODUCTS: Product[] = [
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": "6420",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda Imported China Premium Grade Sports Sandal",
+    "price": 1390,
+    "category": "জুতা",
+    "description": "Product: Original Panda Imported China Premium Grade Sports Sandal\nCategory: জুতা\nPrice: 1390 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6420\n\nNote: Base price was ১১৯০ (1190 in English) + 200 = 1390.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802678_S_6.jpg"
+  },
+  {
+    "id": "6419",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda Imported China Premium Grade Sports Sandal",
+    "price": 1390,
+    "category": "জুতা",
+    "description": "Product: Original Panda Imported China Premium Grade Sports Sandal\nCategory: জুতা\nPrice: 1390 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6419\n\nNote: Base price was ১১৯০ (1190 in English) + 200 = 1390.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802678_S_5.jpg"
+  },
+  {
+    "id": "6418",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda Imported China Premium Grade Sports Sandal",
+    "price": 1390,
+    "category": "জুতা",
+    "description": "Product: Original Panda Imported China Premium Grade Sports Sandal\nCategory: জুতা\nPrice: 1390 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6418\n\nNote: Base price was ১১৯০ (1190 in English) + 200 = 1390.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802678_S_4.jpg"
+  },
+  {
+    "id": "6417",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda Imported China Premium Grade Sports Sandal",
+    "price": 1390,
+    "category": "জুতা",
+    "description": "Product: Original Panda Imported China Premium Grade Sports Sandal\nCategory: জুতা\nPrice: 1390 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6417\n\nNote: Base price was ১১৯০ (1190 in English) + 200 = 1390.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802678_S_3.jpg"
+  },
+  {
+    "id": "6416",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda Imported China Premium Grade Sports Sandal",
+    "price": 1390,
+    "category": "জুতা",
+    "description": "Product: Original Panda Imported China Premium Grade Sports Sandal\nCategory: জুতা\nPrice: 1390 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6416\n\nNote: Base price was ১১৯০ (1190 in English) + 200 = 1390.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802678_S_2.jpg"
+  },
+  {
+    "id": "6415",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda Imported China Premium Grade Sports Sandal",
+    "price": 1390,
+    "category": "জুতা",
+    "description": "Product: Original Panda Imported China Premium Grade Sports Sandal\nCategory: জুতা\nPrice: 1390 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6415\n\nNote: Base price was ১১৯০ (1190 in English) + 200 = 1390.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802678_S_1.jpg"
+  },
+  {
+    "id": "6414",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda imported China Premium Grade Keds",
+    "price": 1550,
+    "category": "জুতা",
+    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1550 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6414\n\nNote: Base price was ১৩৫০ (1350 in English) + 200 = 1550.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802399_S_4.jpg"
+  },
+  {
+    "id": "6413",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda imported China Premium Grade Keds",
+    "price": 1550,
+    "category": "জুতা",
+    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1550 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6413\n\nNote: Base price was ১৩৫০ (1350 in English) + 200 = 1550.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802399_S_3.jpg"
+  },
+  {
+    "id": "6412",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda imported China Premium Grade Keds",
+    "price": 1550,
+    "category": "জুতা",
+    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1550 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6412\n\nNote: Base price was ১৩৫০ (1350 in English) + 200 = 1550.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802399_S_2.jpg"
+  },
+  {
+    "id": "6411",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda imported China Premium Grade Keds",
+    "price": 1550,
+    "category": "জুতা",
+    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1550 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6411\n\nNote: Base price was ১৩৫০ (1350 in English) + 200 = 1550.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802399_S_1.jpg"
+  },
+  {
+    "id": "6410",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda imported China Premium Grade Keds",
+    "price": 1750,
+    "category": "জুতা",
+    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1750 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6410\n\nNote: Base price was ১৫৫০ (1550 in English) + 200 = 1750.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802138_S_4.jpg"
+  },
+  {
+    "id": "6409",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda imported China Premium Grade Keds",
+    "price": 1750,
+    "category": "জুতা",
+    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1750 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6409\n\nNote: Base price was ১৫৫০ (1550 in English) + 200 = 1750.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802138_S_3.jpg"
+  },
+  {
+    "id": "6408",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda imported China Premium Grade Keds",
+    "price": 1750,
+    "category": "জুতা",
+    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1750 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6408\n\nNote: Base price was ১৫৫০ (1550 in English) + 200 = 1750.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802138_S_2.jpg"
+  },
+  {
+    "id": "6407",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda imported China Premium Grade Keds",
+    "price": 1750,
+    "category": "জুতা",
+    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1750 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6407\n\nNote: Base price was ১৫৫০ (1550 in English) + 200 = 1750.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802138_S_1.jpg"
+  },
+  {
+    "id": "6406",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda imported China Premium Grade Keds",
+    "price": 1850,
+    "category": "জুতা",
+    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1850 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6406\n\nNote: Base price was ১৬৫০ (1650 in English) + 200 = 1850.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708801877_S_2.jpg"
+  },
+  {
+    "id": "6405",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Panda imported China Premium Grade Keds",
+    "price": 1850,
+    "category": "জুতা",
+    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1850 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6405\n\nNote: Base price was ১৬৫০ (1650 in English) + 200 = 1850.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708801877_S_1.jpg"
+  },
+  {
+    "id": "6404",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Imported China Premium Grade Keds",
+    "price": 2520,
+    "category": "জুতা",
+    "description": "Product: Original Imported China Premium Grade Keds\nCategory: জুতা\nPrice: 2520 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6404\n\nNote: Base price was ২৩২০ (2320 in English) + 200 = 2520.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708801475_S_3.jpg"
+  },
+  {
+    "id": "6403",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Imported China Premium Grade Keds",
+    "price": 2520,
+    "category": "জুতা",
+    "description": "Product: Original Imported China Premium Grade Keds\nCategory: জুতা\nPrice: 2520 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6403\n\nNote: Base price was ২৩২০ (2320 in English) + 200 = 2520.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708801475_S_2.jpg"
+  },
+  {
+    "id": "6402",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Original Imported China Premium Grade Keds",
+    "price": 2520,
+    "category": "জুতা",
+    "description": "Product: Original Imported China Premium Grade Keds\nCategory: জুতা\nPrice: 2520 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6402\n\nNote: Base price was ২৩২০ (2320 in English) + 200 = 2520.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708801475_S_1.jpg"
+  },
+
+
+
+
   
   
 
