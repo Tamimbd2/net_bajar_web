@@ -489,6 +489,7 @@ export const INITIAL_PRODUCTS: Product[] = [
 
 
 export const CATEGORIES: Category[] = [
+  { id: 12, name: "Mash T-Shirt and Short Pant Set", imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_20.jpg" },
   { id: 7, name: "টি শার্ট", imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1756648120_L_17.jpg" },
   { id: 6, name: "পলো শার্ট", imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1746690224_L_4.jpg" },
   { id: 5, name: "স্টাইলিস শার্ট", imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1755954480_L_10.jpg" },
