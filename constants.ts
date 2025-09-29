@@ -5466,21 +5466,13 @@ export const INITIAL_PRODUCTS: Product[] = [
 
 
 
-
-
-
-
-
-
-
-
   {
     "id": "6420",
     "createdAt": "Date.now() - 7470000",
     "name": "Original Panda Imported China Premium Grade Sports Sandal",
     "price": 1390,
     "category": "জুতা",
-    "description": "Product: Original Panda Imported China Premium Grade Sports Sandal\nCategory: জুতা\nPrice: 1390 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6420\n\nNote: Base price was ১১৯০ (1190 in English) + 200 = 1390.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802678_S_6.jpg"
   },
   {
@@ -5489,7 +5481,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Panda Imported China Premium Grade Sports Sandal",
     "price": 1390,
     "category": "জুতা",
-    "description": "Product: Original Panda Imported China Premium Grade Sports Sandal\nCategory: জুতা\nPrice: 1390 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6419\n\nNote: Base price was ১১৯০ (1190 in English) + 200 = 1390.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802678_S_5.jpg"
   },
   {
@@ -5498,7 +5490,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Panda Imported China Premium Grade Sports Sandal",
     "price": 1390,
     "category": "জুতা",
-    "description": "Product: Original Panda Imported China Premium Grade Sports Sandal\nCategory: জুতা\nPrice: 1390 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6418\n\nNote: Base price was ১১৯০ (1190 in English) + 200 = 1390.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802678_S_4.jpg"
   },
   {
@@ -5507,7 +5499,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Panda Imported China Premium Grade Sports Sandal",
     "price": 1390,
     "category": "জুতা",
-    "description": "Product: Original Panda Imported China Premium Grade Sports Sandal\nCategory: জুতা\nPrice: 1390 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6417\n\nNote: Base price was ১১৯০ (1190 in English) + 200 = 1390.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802678_S_3.jpg"
   },
   {
@@ -5516,7 +5508,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Panda Imported China Premium Grade Sports Sandal",
     "price": 1390,
     "category": "জুতা",
-    "description": "Product: Original Panda Imported China Premium Grade Sports Sandal\nCategory: জুতা\nPrice: 1390 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6416\n\nNote: Base price was ১১৯০ (1190 in English) + 200 = 1390.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802678_S_2.jpg"
   },
   {
@@ -5525,7 +5517,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Panda Imported China Premium Grade Sports Sandal",
     "price": 1390,
     "category": "জুতা",
-    "description": "Product: Original Panda Imported China Premium Grade Sports Sandal\nCategory: জুতা\nPrice: 1390 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6415\n\nNote: Base price was ১১৯০ (1190 in English) + 200 = 1390.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802678_S_1.jpg"
   },
   {
@@ -5534,7 +5526,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Panda imported China Premium Grade Keds",
     "price": 1550,
     "category": "জুতা",
-    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1550 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6414\n\nNote: Base price was ১৩৫০ (1350 in English) + 200 = 1550.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802399_S_4.jpg"
   },
   {
@@ -5543,7 +5535,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Panda imported China Premium Grade Keds",
     "price": 1550,
     "category": "জুতা",
-    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1550 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6413\n\nNote: Base price was ১৩৫০ (1350 in English) + 200 = 1550.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802399_S_3.jpg"
   },
   {
@@ -5552,7 +5544,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Panda imported China Premium Grade Keds",
     "price": 1550,
     "category": "জুতা",
-    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1550 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6412\n\nNote: Base price was ১৩৫০ (1350 in English) + 200 = 1550.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802399_S_2.jpg"
   },
   {
@@ -5561,7 +5553,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Panda imported China Premium Grade Keds",
     "price": 1550,
     "category": "জুতা",
-    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1550 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6411\n\nNote: Base price was ১৩৫০ (1350 in English) + 200 = 1550.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802399_S_1.jpg"
   },
   {
@@ -5570,7 +5562,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Panda imported China Premium Grade Keds",
     "price": 1750,
     "category": "জুতা",
-    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1750 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6410\n\nNote: Base price was ১৫৫০ (1550 in English) + 200 = 1750.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802138_S_4.jpg"
   },
   {
@@ -5579,7 +5571,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Panda imported China Premium Grade Keds",
     "price": 1750,
     "category": "জুতা",
-    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1750 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6409\n\nNote: Base price was ১৫৫০ (1550 in English) + 200 = 1750.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802138_S_3.jpg"
   },
   {
@@ -5588,7 +5580,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Panda imported China Premium Grade Keds",
     "price": 1750,
     "category": "জুতা",
-    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1750 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6408\n\nNote: Base price was ১৫৫০ (1550 in English) + 200 = 1750.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802138_S_2.jpg"
   },
   {
@@ -5597,7 +5589,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Panda imported China Premium Grade Keds",
     "price": 1750,
     "category": "জুতা",
-    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1750 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6407\n\nNote: Base price was ১৫৫০ (1550 in English) + 200 = 1750.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708802138_S_1.jpg"
   },
   {
@@ -5606,7 +5598,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Panda imported China Premium Grade Keds",
     "price": 1850,
     "category": "জুতা",
-    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1850 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6406\n\nNote: Base price was ১৬৫০ (1650 in English) + 200 = 1850.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708801877_S_2.jpg"
   },
   {
@@ -5615,7 +5607,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Panda imported China Premium Grade Keds",
     "price": 1850,
     "category": "জুতা",
-    "description": "Product: Original Panda imported China Premium Grade Keds\nCategory: জুতা\nPrice: 1850 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6405\n\nNote: Base price was ১৬৫০ (1650 in English) + 200 = 1850.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708801877_S_1.jpg"
   },
   {
@@ -5624,7 +5616,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Imported China Premium Grade Keds",
     "price": 2520,
     "category": "জুতা",
-    "description": "Product: Original Imported China Premium Grade Keds\nCategory: জুতা\nPrice: 2520 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6404\n\nNote: Base price was ২৩২০ (2320 in English) + 200 = 2520.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708801475_S_3.jpg"
   },
   {
@@ -5633,7 +5625,7 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Imported China Premium Grade Keds",
     "price": 2520,
     "category": "জুতা",
-    "description": "Product: Original Imported China Premium Grade Keds\nCategory: জুতা\nPrice: 2520 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6403\n\nNote: Base price was ২৩২০ (2320 in English) + 200 = 2520.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708801475_S_2.jpg"
   },
   {
@@ -5642,9 +5634,19 @@ export const INITIAL_PRODUCTS: Product[] = [
     "name": "Original Imported China Premium Grade Keds",
     "price": 2520,
     "category": "জুতা",
-    "description": "Product: Original Imported China Premium Grade Keds\nCategory: জুতা\nPrice: 2520 BDT\n\nLink: https://shopbasebd.com/store/sample/product/details/6402\n\nNote: Base price was ২৩২০ (2320 in English) + 200 = 2520.",
+    "description": "Material: High-quality synthetic materials.\nSole: Durable rubber sole for excellent grip and comfort.\nStyle: Modern and versatile design, suitable for casual wear and sports.\nAvailable Sizes: 40, 41, 42, 43, 44.\n\nOrder Process:\nTo order, please provide your name, address, phone number, and desired size.",
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1708801475_S_1.jpg"
   },
+
+
+
+
+
+
+
+
+
+ 
 
 
 
