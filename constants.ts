@@ -484,15 +484,627 @@ export const INITIAL_PRODUCTS: Product[] = [
   
   //Mash T-Shirt and Short Pant Set -- আইডি 1000-1200 পর্যন্ত 
 
-    {
-    id: 'product-1001', createdAt: Date.now() - 100000, name: "Mash T-Shirt and Short Pant Set", price: 420, category: "Mash T-Shirt and Short Pant Set",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_20.jpg"
+  {
+    id: 'product-1001',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_20.jpg"
   },
-      {
-    id: 'product-1002', createdAt: Date.now() - 100000, name: "Mash T-Shirt and Short Pant Set", price: 420, category: "Mash T-Shirt and Short Pant Set",
-    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_19.jpg"
+  {
+    id: 'product-1002',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_19.jpg"
   },
-  
+  {
+    id: 'product-1003',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_18.jpg"
+  },
+  {
+    id: 'product-1004',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_17.jpg"
+  },
+  {
+    id: 'product-1005',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_16.jpg"
+  },
+  {
+    id: 'product-1006',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_15.jpg"
+  },
+  {
+    id: 'product-1007',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_14.jpg"
+  },
+  {
+    id: 'product-1008',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_13.jpg"
+  },
+  {
+    id: 'product-1009',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_12.jpg"
+  },
+  {
+    id: 'product-1010',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_11.jpg"
+  },
+  {
+    id: 'product-1011',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_10.jpg"
+  },
+  {
+    id: 'product-1012',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_9.jpg"
+  },
+  {
+    id: 'product-1013',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_8.jpg"
+  },
+  {
+    id: 'product-1014',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_7.jpg"
+  },
+  {
+    id: 'product-1015',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_6.jpg"
+  },
+  {
+    id: 'product-1016',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_5.jpg"
+  },
+  {
+    id: 'product-1017',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_4.jpg"
+  },
+  {
+    id: 'product-1018',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_3.jpg"
+  },
+  {
+    id: 'product-1019',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_2.jpg"
+  },
+  {
+    id: 'product-1020',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_1.jpg"
+  },
+  {
+    id: 'product-1021',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_20.jpg"
+  },
+  {
+    id: 'product-1022',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_19.jpg"
+  },
+  {
+    id: 'product-1023',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_18.jpg"
+  },
+  {
+    id: 'product-1024',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_17.jpg"
+  },
+  {
+    id: 'product-1025',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_16.jpg"
+  },
+  {
+    id: 'product-1026',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_15.jpg"
+  },
+  {
+    id: 'product-1027',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_14.jpg"
+  },
+  {
+    id: 'product-1028',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_13.jpg"
+  },
+  {
+    id: 'product-1029',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_12.jpg"
+  },
+  {
+    id: 'product-1030',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_11.jpg"
+  },
+  {
+    id: 'product-1031',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_10.jpg"
+  },
+  {
+    id: 'product-1032',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_9.jpg"
+  },
+  {
+    id: 'product-1033',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_8.jpg"
+  },
+  {
+    id: 'product-1034',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_7.jpg"
+  },
+  {
+    id: 'product-1035',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_6.jpg"
+  },
+  {
+    id: 'product-1036',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_5.jpg"
+  },
+  {
+    id: 'product-1037',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_4.jpg"
+  },
+  {
+    id: 'product-1038',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_3.jpg"
+  },
+  {
+    id: 'product-1039',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_2.jpg"
+  },
+  {
+    id: 'product-1040',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771500_S_1.jpg"
+  },
+  {
+    id: 'product-1041',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_20.jpg"
+  },
+  {
+    id: 'product-1042',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_19.jpg"
+  },
+  {
+    id: 'product-1043',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_18.jpg"
+  },
+  {
+    id: 'product-1044',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_17.jpg"
+  },
+  {
+    id: 'product-1045',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_16.jpg"
+  },
+  {
+    id: 'product-1046',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_15.jpg"
+  },
+  {
+    id: 'product-1047',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_14.jpg"
+  },
+  {
+    id: 'product-1048',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_13.jpg"
+  },
+  {
+    id: 'product-1049',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_12.jpg"
+  },
+  {
+    id: 'product-1050',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_11.jpg"
+  },
+  {
+    id: 'product-1051',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_10.jpg"
+  },
+  {
+    id: 'product-1052',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_9.jpg"
+  },
+  {
+    id: 'product-1053',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_8.jpg"
+  },
+  {
+    id: 'product-1054',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_7.jpg"
+  },
+  {
+    id: 'product-1055',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_6.jpg"
+  },
+  {
+    id: 'product-1056',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_5.jpg"
+  },
+  {
+    id: 'product-1057',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_4.jpg"
+  },
+  {
+    id: 'product-1058',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_3.jpg"
+  },
+  {
+    id: 'product-1059',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_2.jpg"
+  },
+  {
+    id: 'product-1060',
+    createdAt: Date.now() - 100000,
+    name: "Mash T-Shirt and Short Pant Set",
+    price: 420,
+    category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771159_S_1.jpg"
+  },
+  {
+    id: 'product-1061',
+    createdAt: Date.now() - 100000,
+    name: "Summer Collection Item",
+    price: 380,
+    category: "Summer Collection",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752069177_S_5.jpg"
+  },
+  {
+    id: 'product-1062',
+    createdAt: Date.now() - 100000,
+    name: "Summer Collection Item",
+    price: 380,
+    category: "Summer Collection",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752069177_S_4.jpg"
+  },
+  {
+    id: 'product-1063',
+    createdAt: Date.now() - 100000,
+    name: "Summer Collection Item",
+    price: 380,
+    category: "Summer Collection",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752069177_S_3.jpg"
+  },
+  {
+    id: 'product-1064',
+    createdAt: Date.now() - 100000,
+    name: "Summer Collection Item",
+    price: 380,
+    category: "Summer Collection",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752069177_S_2.jpg"
+  },
+  {
+    id: 'product-1065',
+    createdAt: Date.now() - 100000,
+    name: "Summer Collection Item",
+    price: 380,
+    category: "Summer Collection",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752069177_S_1.jpg"
+  },
+  {
+    id: 'product-1066',
+    createdAt: Date.now() - 100000,
+    name: "Premium Product Set",
+    price: 550,
+    category: "Premium Collection",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1748188214_S_7.jpg"
+  },
+  {
+    id: 'product-1067',
+    createdAt: Date.now() - 100000,
+    name: "Premium Product Set",
+    price: 550,
+    category: "Premium Collection",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1748188214_S_6.jpg"
+  },
+  {
+    id: 'product-1068',
+    createdAt: Date.now() - 100000,
+    name: "Premium Product Set",
+    price: 550,
+    category: "Premium Collection",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1748188214_S_5.jpg"
+  },
+  {
+    id: 'product-1069',
+    createdAt: Date.now() - 100000,
+    name: "Premium Product Set",
+    price: 550,
+    category: "Premium Collection",
+    description: descriptionTemplate,
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1748188214_S_4.jpg"
+  },
 
 ];
 
