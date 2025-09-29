@@ -2526,6 +2526,1770 @@ export const INITIAL_PRODUCTS: Product[] = [
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1727869346_S_6.jpg"
   },
 
+
+
+
+
+//shirt 1701
+
+
+
+  {
+    "id": "product-1701",
+    "createdAt": "Date.now() - 4670000",
+    "name": "Premium Cheake Shirt",
+    "price": 680,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758539343_S_6.jpg"
+  },
+  {
+    "id": "product-1702",
+    "createdAt": "Date.now() - 4680000",
+    "name": "Premium Cheake Shirt",
+    "price": 680,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758539343_S_5.jpg"
+  },
+  {
+    "id": "product-1703",
+    "createdAt": "Date.now() - 4690000",
+    "name": "Premium Cheake Shirt",
+    "price": 680,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758539343_S_4.jpg"
+  },
+  {
+    "id": "product-1704",
+    "createdAt": "Date.now() - 4700000",
+    "name": "Premium Cheake Shirt",
+    "price": 680,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758539343_S_3.jpg"
+  },
+  {
+    "id": "product-1705",
+    "createdAt": "Date.now() - 4710000",
+    "name": "Premium Cheake Shirt",
+    "price": 680,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758539343_S_2.jpg"
+  },
+  {
+    "id": "product-1706",
+    "createdAt": "Date.now() - 4720000",
+    "name": "Premium Cheake Shirt",
+    "price": 680,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758539343_S_1.jpg"
+  },
+  {
+    "id": "product-1707",
+    "createdAt": "Date.now() - 4730000",
+    "name": "Half Sleeve Shirt",
+    "price": 660,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755954480_S_10.jpg"
+  },
+  {
+    "id": "product-1708",
+    "createdAt": "Date.now() - 4740000",
+    "name": "Half Sleeve Shirt",
+    "price": 660,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755954480_S_9.jpg"
+  },
+  {
+    "id": "product-1709",
+    "createdAt": "Date.now() - 4750000",
+    "name": "Half Sleeve Shirt",
+    "price": 660,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755954480_S_8.jpg"
+  },
+  {
+    "id": "product-1710",
+    "createdAt": "Date.now() - 4760000",
+    "name": "Half Sleeve Shirt",
+    "price": 660,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755954480_S_7.jpg"
+  },
+  {
+    "id": "product-1711",
+    "createdAt": "Date.now() - 4770000",
+    "name": "Half Sleeve Shirt",
+    "price": 660,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755954480_S_6.jpg"
+  },
+  {
+    "id": "product-1712",
+    "createdAt": "Date.now() - 4780000",
+    "name": "Half Sleeve Shirt",
+    "price": 660,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755954480_S_5.jpg"
+  },
+  {
+    "id": "product-1713",
+    "createdAt": "Date.now() - 4790000",
+    "name": "Half Sleeve Shirt",
+    "price": 660,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755954480_S_4.jpg"
+  },
+  {
+    "id": "product-1714",
+    "createdAt": "Date.now() - 4800000",
+    "name": "Half Sleeve Shirt",
+    "price": 660,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755954480_S_3.jpg"
+  },
+  {
+    "id": "product-1715",
+    "createdAt": "Date.now() - 4810000",
+    "name": "Half Sleeve Shirt",
+    "price": 660,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755954480_S_2.jpg"
+  },
+  {
+    "id": "product-1716",
+    "createdAt": "Date.now() - 4820000",
+    "name": "Half Sleeve Shirt",
+    "price": 660,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755954480_S_1.jpg"
+  },
+  {
+    "id": "product-1717",
+    "createdAt": "Date.now() - 4830000",
+    "name": "OLD MONEY Full Sleeve Shirt",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755939781_S_10.jpg"
+  },
+  {
+    "id": "product-1718",
+    "createdAt": "Date.now() - 4840000",
+    "name": "OLD MONEY Full Sleeve Shirt",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755939781_S_9.jpg"
+  },
+  {
+    "id": "product-1719",
+    "createdAt": "Date.now() - 4850000",
+    "name": "OLD MONEY Full Sleeve Shirt",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755939781_S_8.jpg"
+  },
+  {
+    "id": "product-1720",
+    "createdAt": "Date.now() - 4860000",
+    "name": "OLD MONEY Full Sleeve Shirt",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755939781_S_7.jpg"
+  },
+  {
+    "id": "product-1721",
+    "createdAt": "Date.now() - 4870000",
+    "name": "OLD MONEY Full Sleeve Shirt",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755939780_S_6.jpg"
+  },
+  {
+    "id": "product-1722",
+    "createdAt": "Date.now() - 4880000",
+    "name": "OLD MONEY Full Sleeve Shirt",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755939780_S_5.jpg"
+  },
+  {
+    "id": "product-1723",
+    "createdAt": "Date.now() - 4890000",
+    "name": "OLD MONEY Full Sleeve Shirt",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755939780_S_4.jpg"
+  },
+  {
+    "id": "product-1724",
+    "createdAt": "Date.now() - 4900000",
+    "name": "OLD MONEY Full Sleeve Shirt",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755939780_S_3.jpg"
+  },
+  {
+    "id": "product-1725",
+    "createdAt": "Date.now() - 4910000",
+    "name": "OLD MONEY Full Sleeve Shirt",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755939780_S_2.jpg"
+  },
+  {
+    "id": "product-1726",
+    "createdAt": "Date.now() - 4920000",
+    "name": "OLD MONEY Full Sleeve Shirt",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1755939780_S_1.jpg"
+  },
+  {
+    "id": "product-1727",
+    "createdAt": "Date.now() - 4930000",
+    "name": "China Stitch Formal Shirt",
+    "price": 670,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1754417726_S_9.jpg"
+  },
+  {
+    "id": "product-1728",
+    "createdAt": "Date.now() - 4940000",
+    "name": "China Stitch Formal Shirt",
+    "price": 670,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1754417726_S_8.jpg"
+  },
+  {
+    "id": "product-1729",
+    "createdAt": "Date.now() - 4950000",
+    "name": "China Stitch Formal Shirt",
+    "price": 670,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1754417726_S_7.jpg"
+  },
+  {
+    "id": "product-1730",
+    "createdAt": "Date.now() - 4960000",
+    "name": "China Stitch Formal Shirt",
+    "price": 670,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1754417726_S_6.jpg"
+  },
+  {
+    "id": "product-1731",
+    "createdAt": "Date.now() - 4970000",
+    "name": "China Stitch Formal Shirt",
+    "price": 670,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1754417726_S_5.jpg"
+  },
+  {
+    "id": "product-1732",
+    "createdAt": "Date.now() - 4980000",
+    "name": "China Stitch Formal Shirt",
+    "price": 670,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1754417726_S_4.jpg"
+  },
+  {
+    "id": "product-1733",
+    "createdAt": "Date.now() - 4990000",
+    "name": "China Stitch Formal Shirt",
+    "price": 670,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1754417726_S_3.jpg"
+  },
+  {
+    "id": "product-1734",
+    "createdAt": "Date.now() - 5000000",
+    "name": "China Stitch Formal Shirt",
+    "price": 670,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1754417726_S_2.jpg"
+  },
+  {
+    "id": "product-1735",
+    "createdAt": "Date.now() - 5010000",
+    "name": "China Stitch Formal Shirt",
+    "price": 670,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1754417726_S_1.jpg"
+  },
+  {
+    "id": "product-1736",
+    "createdAt": "Date.now() - 5020000",
+    "name": "Premium Quality Exclusive Shirt Collection",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753963546_S_11.jpg"
+  },
+  {
+    "id": "product-1737",
+    "createdAt": "Date.now() - 5030000",
+    "name": "Premium Quality Exclusive Shirt Collection",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753963546_S_10.jpg"
+  },
+  {
+    "id": "product-1738",
+    "createdAt": "Date.now() - 5040000",
+    "name": "Premium Quality Exclusive Shirt Collection",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753963546_S_9.jpg"
+  },
+  {
+    "id": "product-1739",
+    "createdAt": "Date.now() - 5050000",
+    "name": "Premium Quality Exclusive Shirt Collection",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753963546_S_8.jpg"
+  },
+  {
+    "id": "product-1740",
+    "createdAt": "Date.now() - 5060000",
+    "name": "Premium Quality Exclusive Shirt Collection",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753963546_S_7.jpg"
+  },
+  {
+    "id": "product-1741",
+    "createdAt": "Date.now() - 5070000",
+    "name": "Premium Quality Exclusive Shirt Collection",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753963546_S_6.jpg"
+  },
+  {
+    "id": "product-1742",
+    "createdAt": "Date.now() - 5080000",
+    "name": "Premium Quality Exclusive Shirt Collection",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753963546_S_5.jpg"
+  },
+  {
+    "id": "product-1743",
+    "createdAt": "Date.now() - 5090000",
+    "name": "Premium Quality Exclusive Shirt Collection",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753963546_S_4.jpg"
+  },
+  {
+    "id": "product-1744",
+    "createdAt": "Date.now() - 5100000",
+    "name": "Premium Quality Exclusive Shirt Collection",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753963546_S_3.jpg"
+  },
+  {
+    "id": "product-1745",
+    "createdAt": "Date.now() - 5110000",
+    "name": "Premium Quality Exclusive Shirt Collection",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753963546_S_2.jpg"
+  },
+  {
+    "id": "product-1746",
+    "createdAt": "Date.now() - 5120000",
+    "name": "Premium Quality Exclusive Shirt Collection",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753963545_S_1.jpg"
+  },
+  {
+    "id": "product-1747",
+    "createdAt": "Date.now() - 5130000",
+    "name": "Pure Cotton Half Sleeve Print Shirt",
+    "price": 599,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753961983_S_5.jpg"
+  },
+  {
+    "id": "product-1748",
+    "createdAt": "Date.now() - 5140000",
+    "name": "Pure Cotton Half Sleeve Print Shirt",
+    "price": 599,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753961983_S_4.jpg"
+  },
+  {
+    "id": "product-1749",
+    "createdAt": "Date.now() - 5150000",
+    "name": "Pure Cotton Half Sleeve Print Shirt",
+    "price": 599,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753961983_S_3.jpg"
+  },
+  {
+    "id": "product-1750",
+    "createdAt": "Date.now() - 5160000",
+    "name": "Pure Cotton Half Sleeve Print Shirt",
+    "price": 599,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753961983_S_2.jpg"
+  },
+  {
+    "id": "product-1751",
+    "createdAt": "Date.now() - 5170000",
+    "name": "Pure Cotton Half Sleeve Print Shirt",
+    "price": 599,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753961983_S_1.jpg"
+  },
+  {
+    "id": "product-1752",
+    "createdAt": "Date.now() - 5180000",
+    "name": "Full Sleeve Digital Print Shirt for Men's",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753603777_S_3.jpg"
+  },
+  {
+    "id": "product-1753",
+    "createdAt": "Date.now() - 5190000",
+    "name": "Full Sleeve Digital Print Shirt for Men's",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753603777_S_2.jpg"
+  },
+  {
+    "id": "product-1754",
+    "createdAt": "Date.now() - 5200000",
+    "name": "Full Sleeve Digital Print Shirt for Men's",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753603777_S_1.jpg"
+  },
+  {
+    "id": "product-1755",
+    "createdAt": "Date.now() - 5210000",
+    "name": "Premium Double Pocket Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753598703_S_12.jpg"
+  },
+  {
+    "id": "product-1756",
+    "createdAt": "Date.now() - 5220000",
+    "name": "Premium Double Pocket Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753598703_S_11.jpg"
+  },
+  {
+    "id": "product-1757",
+    "createdAt": "Date.now() - 5230000",
+    "name": "Premium Double Pocket Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753598703_S_10.jpg"
+  },
+  {
+    "id": "product-1758",
+    "createdAt": "Date.now() - 5240000",
+    "name": "Premium Double Pocket Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753598703_S_9.jpg"
+  },
+  {
+    "id": "product-1759",
+    "createdAt": "Date.now() - 5250000",
+    "name": "Premium Double Pocket Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753598703_S_8.jpg"
+  },
+  {
+    "id": "product-1760",
+    "createdAt": "Date.now() - 5260000",
+    "name": "Premium Double Pocket Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753598702_S_7.jpg"
+  },
+  {
+    "id": "product-1761",
+    "createdAt": "Date.now() - 5270000",
+    "name": "Premium Double Pocket Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753598702_S_6.jpg"
+  },
+  {
+    "id": "product-1762",
+    "createdAt": "Date.now() - 5280000",
+    "name": "Premium Double Pocket Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753598702_S_5.jpg"
+  },
+  {
+    "id": "product-1763",
+    "createdAt": "Date.now() - 5290000",
+    "name": "Premium Double Pocket Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753598702_S_4.jpg"
+  },
+  {
+    "id": "product-1764",
+    "createdAt": "Date.now() - 5300000",
+    "name": "Premium Double Pocket Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753598702_S_3.jpg"
+  },
+  {
+    "id": "product-1765",
+    "createdAt": "Date.now() - 5310000",
+    "name": "Premium Double Pocket Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753598702_S_2.jpg"
+  },
+  {
+    "id": "product-1766",
+    "createdAt": "Date.now() - 5320000",
+    "name": "Premium Double Pocket Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753598702_S_1.jpg"
+  },
+  {
+    "id": "product-1767",
+    "createdAt": "Date.now() - 5330000",
+    "name": "Pure Cotton Full Sleeve Check Shirt",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753377316_S_9.jpg"
+  },
+  {
+    "id": "product-1768",
+    "createdAt": "Date.now() - 5340000",
+    "name": "Pure Cotton Full Sleeve Check Shirt",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753377316_S_8.jpg"
+  },
+  {
+    "id": "product-1769",
+    "createdAt": "Date.now() - 5350000",
+    "name": "Pure Cotton Full Sleeve Check Shirt",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753377316_S_7.jpg"
+  },
+  {
+    "id": "product-1770",
+    "createdAt": "Date.now() - 5360000",
+    "name": "Pure Cotton Full Sleeve Check Shirt",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753377316_S_6.jpg"
+  },
+  {
+    "id": "product-1771",
+    "createdAt": "Date.now() - 5370000",
+    "name": "Pure Cotton Full Sleeve Check Shirt",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753377316_S_5.jpg"
+  },
+  {
+    "id": "product-1772",
+    "createdAt": "Date.now() - 5380000",
+    "name": "Pure Cotton Full Sleeve Check Shirt",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753377316_S_4.jpg"
+  },
+  {
+    "id": "product-1773",
+    "createdAt": "Date.now() - 5390000",
+    "name": "Pure Cotton Full Sleeve Check Shirt",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753377316_S_3.jpg"
+  },
+  {
+    "id": "product-1774",
+    "createdAt": "Date.now() - 5400000",
+    "name": "Pure Cotton Full Sleeve Check Shirt",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753377316_S_2.jpg"
+  },
+  {
+    "id": "product-1775",
+    "createdAt": "Date.now() - 5410000",
+    "name": "Pure Cotton Full Sleeve Check Shirt",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753377316_S_1.jpg"
+  },
+  {
+    "id": "product-1776",
+    "createdAt": "Date.now() - 5420000",
+    "name": "Pure Cotton Half Sleeve Print Shirt",
+    "price": 599,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753376284_S_6.jpg"
+  },
+  {
+    "id": "product-1777",
+    "createdAt": "Date.now() - 5430000",
+    "name": "Pure Cotton Half Sleeve Print Shirt",
+    "price": 599,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753376284_S_5.jpg"
+  },
+  {
+    "id": "product-1778",
+    "createdAt": "Date.now() - 5440000",
+    "name": "Pure Cotton Half Sleeve Print Shirt",
+    "price": 599,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753376284_S_4.jpg"
+  },
+  {
+    "id": "product-1779",
+    "createdAt": "Date.now() - 5450000",
+    "name": "Pure Cotton Half Sleeve Print Shirt",
+    "price": 599,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753376283_S_3.jpg"
+  },
+  {
+    "id": "product-1780",
+    "createdAt": "Date.now() - 5460000",
+    "name": "Pure Cotton Half Sleeve Print Shirt",
+    "price": 599,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753376283_S_2.jpg"
+  },
+  {
+    "id": "product-1781",
+    "createdAt": "Date.now() - 5470000",
+    "name": "Pure Cotton Half Sleeve Print Shirt",
+    "price": 599,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753376283_S_1.jpg"
+  },
+  {
+    "id": "product-1782",
+    "createdAt": "Date.now() - 5480000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197995_S_13.jpg"
+  },
+  {
+    "id": "product-1783",
+    "createdAt": "Date.now() - 5490000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197995_S_12.jpg"
+  },
+  {
+    "id": "product-1784",
+    "createdAt": "Date.now() - 5500000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197995_S_11.jpg"
+  },
+  {
+    "id": "product-1785",
+    "createdAt": "Date.now() - 5510000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197995_S_10.jpg"
+  },
+  {
+    "id": "product-1786",
+    "createdAt": "Date.now() - 5520000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197995_S_9.jpg"
+  },
+  {
+    "id": "product-1787",
+    "createdAt": "Date.now() - 5530000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197995_S_8.jpg"
+  },
+  {
+    "id": "product-1788",
+    "createdAt": "Date.now() - 5540000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197995_S_7.jpg"
+  },
+  {
+    "id": "product-1789",
+    "createdAt": "Date.now() - 5550000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197995_S_6.jpg"
+  },
+  {
+    "id": "product-1790",
+    "createdAt": "Date.now() - 5560000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197995_S_5.jpg"
+  },
+  {
+    "id": "product-1791",
+    "createdAt": "Date.now() - 5570000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197995_S_4.jpg"
+  },
+  {
+    "id": "product-1792",
+    "createdAt": "Date.now() - 5580000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197995_S_3.jpg"
+  },
+  {
+    "id": "product-1793",
+    "createdAt": "Date.now() - 5590000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197995_S_2.jpg"
+  },
+  {
+    "id": "product-1794",
+    "createdAt": "Date.now() - 5600000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197994_S_1.jpg"
+  },
+  {
+    "id": "product-1795",
+    "createdAt": "Date.now() - 5610000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197924_S_13.jpg"
+  },
+  {
+    "id": "product-1796",
+    "createdAt": "Date.now() - 5620000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197924_S_12.jpg"
+  },
+  {
+    "id": "product-1797",
+    "createdAt": "Date.now() - 5630000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197924_S_11.jpg"
+  },
+  {
+    "id": "product-1798",
+    "createdAt": "Date.now() - 5640000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197924_S_10.jpg"
+  },
+  {
+    "id": "product-1799",
+    "createdAt": "Date.now() - 5650000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197924_S_9.jpg"
+  },
+  {
+    "id": "product-1800",
+    "createdAt": "Date.now() - 5660000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197924_S_8.jpg"
+  },
+  {
+    "id": "product-1801",
+    "createdAt": "Date.now() - 5670000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197924_S_7.jpg"
+  },
+  {
+    "id": "product-1802",
+    "createdAt": "Date.now() - 5680000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197924_S_6.jpg"
+  },
+  {
+    "id": "product-1803",
+    "createdAt": "Date.now() - 5690000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197924_S_5.jpg"
+  },
+  {
+    "id": "product-1804",
+    "createdAt": "Date.now() - 5700000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197924_S_4.jpg"
+  },
+  {
+    "id": "product-1805",
+    "createdAt": "Date.now() - 5710000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197924_S_3.jpg"
+  },
+  {
+    "id": "product-1806",
+    "createdAt": "Date.now() - 5720000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197924_S_2.jpg"
+  },
+  {
+    "id": "product-1807",
+    "createdAt": "Date.now() - 5730000",
+    "name": "China Magnet Stretched Full Sleeve Shirt",
+    "price": 699,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753197924_S_1.jpg"
+  },
+  {
+    "id": "product-1808",
+    "createdAt": "Date.now() - 5740000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_19.jpg"
+  },
+  {
+    "id": "product-1809",
+    "createdAt": "Date.now() - 5750000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_18.jpg"
+  },
+  {
+    "id": "product-1810",
+    "createdAt": "Date.now() - 5760000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_17.jpg"
+  },
+  {
+    "id": "product-1811",
+    "createdAt": "Date.now() - 5770000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_16.jpg"
+  },
+  {
+    "id": "product-1812",
+    "createdAt": "Date.now() - 5780000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_15.jpg"
+  },
+  {
+    "id": "product-1813",
+    "createdAt": "Date.now() - 5790000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_14.jpg"
+  },
+  {
+    "id": "product-1814",
+    "createdAt": "Date.now() - 5800000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_13.jpg"
+  },
+  {
+    "id": "product-1815",
+    "createdAt": "Date.now() - 5810000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_12.jpg"
+  },
+  {
+    "id": "product-1816",
+    "createdAt": "Date.now() - 5820000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_11.jpg"
+  },
+  {
+    "id": "product-1817",
+    "createdAt": "Date.now() - 5830000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_10.jpg"
+  },
+  {
+    "id": "product-1818",
+    "createdAt": "Date.now() - 5840000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_9.jpg"
+  },
+  {
+    "id": "product-1819",
+    "createdAt": "Date.now() - 5850000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_8.jpg"
+  },
+  {
+    "id": "product-1820",
+    "createdAt": "Date.now() - 5860000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_7.jpg"
+  },
+  {
+    "id": "product-1821",
+    "createdAt": "Date.now() - 5870000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_6.jpg"
+  },
+  {
+    "id": "product-1822",
+    "createdAt": "Date.now() - 5880000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_5.jpg"
+  },
+  {
+    "id": "product-1823",
+    "createdAt": "Date.now() - 5890000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194657_S_4.jpg"
+  },
+  {
+    "id": "product-1824",
+    "createdAt": "Date.now() - 5900000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194656_S_3.jpg"
+  },
+  {
+    "id": "product-1825",
+    "createdAt": "Date.now() - 5910000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194656_S_2.jpg"
+  },
+  {
+    "id": "product-1826",
+    "createdAt": "Date.now() - 5920000",
+    "name": "Luxury China Spandex Cot Drooped Shulderd Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753194656_S_1.jpg"
+  },
+  {
+    "id": "product-1827",
+    "createdAt": "Date.now() - 5930000",
+    "name": "Pure Cotton full Sleeve Check & Print Shirt for Men's",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753189815_S_7.jpg"
+  },
+  {
+    "id": "product-1828",
+    "createdAt": "Date.now() - 5940000",
+    "name": "Pure Cotton full Sleeve Check & Print Shirt for Men's",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753189814_S_6.jpg"
+  },
+  {
+    "id": "product-1829",
+    "createdAt": "Date.now() - 5950000",
+    "name": "Pure Cotton full Sleeve Check & Print Shirt for Men's",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753189814_S_5.jpg"
+  },
+  {
+    "id": "product-1830",
+    "createdAt": "Date.now() - 5960000",
+    "name": "Pure Cotton full Sleeve Check & Print Shirt for Men's",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753189814_S_4.jpg"
+  },
+  {
+    "id": "product-1831",
+    "createdAt": "Date.now() - 5970000",
+    "name": "Pure Cotton full Sleeve Check & Print Shirt for Men's",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753189814_S_3.jpg"
+  },
+  {
+    "id": "product-1832",
+    "createdAt": "Date.now() - 5980000",
+    "name": "Pure Cotton full Sleeve Check & Print Shirt for Men's",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753189814_S_2.jpg"
+  },
+  {
+    "id": "product-1833",
+    "createdAt": "Date.now() - 5990000",
+    "name": "Pure Cotton full Sleeve Check & Print Shirt for Men's",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753189814_S_1.jpg"
+  },
+  {
+    "id": "product-1834",
+    "createdAt": "Date.now() - 6000000",
+    "name": "Pure Cotton full Sleeve Check & Print Shirt for Men's",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753188782_S_5.jpg"
+  },
+  {
+    "id": "product-1835",
+    "createdAt": "Date.now() - 6010000",
+    "name": "Pure Cotton full Sleeve Check & Print Shirt for Men's",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753188782_S_4.jpg"
+  },
+  {
+    "id": "product-1836",
+    "createdAt": "Date.now() - 6020000",
+    "name": "Pure Cotton full Sleeve Check & Print Shirt for Men's",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753188782_S_3.jpg"
+  },
+  {
+    "id": "product-1837",
+    "createdAt": "Date.now() - 6030000",
+    "name": "Pure Cotton full Sleeve Check & Print Shirt for Men's",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753188782_S_2.jpg"
+  },
+  {
+    "id": "product-1838",
+    "createdAt": "Date.now() - 6040000",
+    "name": "Pure Cotton full Sleeve Check & Print Shirt for Men's",
+    "price": 650,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753188782_S_1.jpg"
+  },
+  {
+    "id": "product-1839",
+    "createdAt": "Date.now() - 6050000",
+    "name": "Luxury China Spandex Cot Drooped Shudder Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753187869_S_14.jpg"
+  },
+  {
+    "id": "product-1840",
+    "createdAt": "Date.now() - 6060000",
+    "name": "Luxury China Spandex Cot Drooped Shudder Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753187869_S_13.jpg"
+  },
+  {
+    "id": "product-1841",
+    "createdAt": "Date.now() - 6070000",
+    "name": "Luxury China Spandex Cot Drooped Shudder Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753187869_S_12.jpg"
+  },
+  {
+    "id": "product-1842",
+    "createdAt": "Date.now() - 6080000",
+    "name": "Luxury China Spandex Cot Drooped Shudder Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753187869_S_11.jpg"
+  },
+  {
+    "id": "product-1843",
+    "createdAt": "Date.now() - 6090000",
+    "name": "Luxury China Spandex Cot Drooped Shudder Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753187869_S_10.jpg"
+  },
+  {
+    "id": "product-1844",
+    "createdAt": "Date.now() - 6100000",
+    "name": "Luxury China Spandex Cot Drooped Shudder Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753187869_S_9.jpg"
+  },
+  {
+    "id": "product-1845",
+    "createdAt": "Date.now() - 6110000",
+    "name": "Luxury China Spandex Cot Drooped Shudder Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753187869_S_8.jpg"
+  },
+  {
+    "id": "product-1846",
+    "createdAt": "Date.now() - 6120000",
+    "name": "Luxury China Spandex Cot Drooped Shudder Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753187869_S_7.jpg"
+  },
+  {
+    "id": "product-1847",
+    "createdAt": "Date.now() - 6130000",
+    "name": "Luxury China Spandex Cot Drooped Shudder Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753187869_S_6.jpg"
+  },
+  {
+    "id": "product-1848",
+    "createdAt": "Date.now() - 6140000",
+    "name": "Luxury China Spandex Cot Drooped Shudder Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753187869_S_5.jpg"
+  },
+  {
+    "id": "product-1849",
+    "createdAt": "Date.now() - 6150000",
+    "name": "Luxury China Spandex Cot Drooped Shudder Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753187869_S_4.jpg"
+  },
+  {
+    "id": "product-1850",
+    "createdAt": "Date.now() - 6160000",
+    "name": "Luxury China Spandex Cot Drooped Shudder Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753187869_S_3.jpg"
+  },
+  {
+    "id": "product-1851",
+    "createdAt": "Date.now() - 6170000",
+    "name": "Luxury China Spandex Cot Drooped Shudder Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753187869_S_2.jpg"
+  },
+  {
+    "id": "product-1852",
+    "createdAt": "Date.now() - 6180000",
+    "name": "Luxury China Spandex Cot Drooped Shudder Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753187869_S_1.jpg"
+  },
+  {
+    "id": "product-1853",
+    "createdAt": "Date.now() - 6190000",
+    "name": "China Stitch Formal Shirt",
+    "price": 680,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753106386_S_9.jpg"
+  },
+  {
+    "id": "product-1854",
+    "createdAt": "Date.now() - 6200000",
+    "name": "China Stitch Formal Shirt",
+    "price": 680,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753106386_S_8.jpg"
+  },
+  {
+    "id": "product-1855",
+    "createdAt": "Date.now() - 6210000",
+    "name": "China Stitch Formal Shirt",
+    "price": 680,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753106386_S_7.jpg"
+  },
+  {
+    "id": "product-1856",
+    "createdAt": "Date.now() - 6220000",
+    "name": "China Stitch Formal Shirt",
+    "price": 680,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753106386_S_6.jpg"
+  },
+  {
+    "id": "product-1857",
+    "createdAt": "Date.now() - 6230000",
+    "name": "China Stitch Formal Shirt",
+    "price": 680,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753106386_S_5.jpg"
+  },
+  {
+    "id": "product-1858",
+    "createdAt": "Date.now() - 6240000",
+    "name": "China Stitch Formal Shirt",
+    "price": 680,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753106386_S_4.jpg"
+  },
+  {
+    "id": "product-1859",
+    "createdAt": "Date.now() - 6250000",
+    "name": "China Stitch Formal Shirt",
+    "price": 680,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753106386_S_3.jpg"
+  },
+  {
+    "id": "product-1860",
+    "createdAt": "Date.now() - 6260000",
+    "name": "China Stitch Formal Shirt",
+    "price": 680,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753106386_S_2.jpg"
+  },
+  {
+    "id": "product-1861",
+    "createdAt": "Date.now() - 6270000",
+    "name": "China Stitch Formal Shirt",
+    "price": 680,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1753106386_S_1.jpg"
+  },
+  {
+    "id": "product-1862",
+    "createdAt": "Date.now() - 6280000",
+    "name": "Luxury China Spandex Cot Drooped Shouldered Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752302124_S_15.jpg"
+  },
+  {
+    "id": "product-1863",
+    "createdAt": "Date.now() - 6290000",
+    "name": "Luxury China Spandex Cot Drooped Shouldered Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752302124_S_14.jpg"
+  },
+  {
+    "id": "product-1864",
+    "createdAt": "Date.now() - 6300000",
+    "name": "Luxury China Spandex Cot Drooped Shouldered Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752302124_S_13.jpg"
+  },
+  {
+    "id": "product-1865",
+    "createdAt": "Date.now() - 6310000",
+    "name": "Luxury China Spandex Cot Drooped Shouldered Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752302124_S_12.jpg"
+  },
+  {
+    "id": "product-1866",
+    "createdAt": "Date.now() - 6320000",
+    "name": "Luxury China Spandex Cot Drooped Shouldered Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752302124_S_11.jpg"
+  },
+  {
+    "id": "product-1867",
+    "createdAt": "Date.now() - 6330000",
+    "name": "Luxury China Spandex Cot Drooped Shouldered Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752302124_S_10.jpg"
+  },
+  {
+    "id": "product-1868",
+    "createdAt": "Date.now() - 6340000",
+    "name": "Luxury China Spandex Cot Drooped Shouldered Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752302124_S_9.jpg"
+  },
+  {
+    "id": "product-1869",
+    "createdAt": "Date.now() - 6350000",
+    "name": "Luxury China Spandex Cot Drooped Shouldered Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752302124_S_8.jpg"
+  },
+  {
+    "id": "product-1870",
+    "createdAt": "Date.now() - 6360000",
+    "name": "Luxury China Spandex Cot Drooped Shouldered Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752302124_S_7.jpg"
+  },
+  {
+    "id": "product-1871",
+    "createdAt": "Date.now() - 6370000",
+    "name": "Luxury China Spandex Cot Drooped Shouldered Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752302124_S_6.jpg"
+  },
+  {
+    "id": "product-1872",
+    "createdAt": "Date.now() - 6380000",
+    "name": "Luxury China Spandex Cot Drooped Shouldered Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752302124_S_5.jpg"
+  },
+  {
+    "id": "product-1873",
+    "createdAt": "Date.now() - 6390000",
+    "name": "Luxury China Spandex Cot Drooped Shouldered Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752302124_S_4.jpg"
+  },
+  {
+    "id": "product-1874",
+    "createdAt": "Date.now() - 6400000",
+    "name": "Luxury China Spandex Cot Drooped Shouldered Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752302124_S_3.jpg"
+  },
+  {
+    "id": "product-1875",
+    "createdAt": "Date.now() - 6410000",
+    "name": "Luxury China Spandex Cot Drooped Shouldered Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752302124_S_2.jpg"
+  },
+  {
+    "id": "product-1876",
+    "createdAt": "Date.now() - 6420000",
+    "name": "Luxury China Spandex Cot Drooped Shouldered Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752302124_S_1.jpg"
+  },
+  {
+    "id": "product-1877",
+    "createdAt": "Date.now() - 6430000",
+    "name": "Luxury China Spandex Cot Half Sleeve Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752298921_S_9.jpg"
+  },
+  {
+    "id": "product-1878",
+    "createdAt": "Date.now() - 6440000",
+    "name": "Luxury China Spandex Cot Half Sleeve Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752298921_S_8.jpg"
+  },
+  {
+    "id": "product-1879",
+    "createdAt": "Date.now() - 6450000",
+    "name": "Luxury China Spandex Cot Half Sleeve Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752298921_S_7.jpg"
+  },
+  {
+    "id": "product-1880",
+    "createdAt": "Date.now() - 6460000",
+    "name": "Luxury China Spandex Cot Half Sleeve Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752298921_S_6.jpg"
+  },
+  {
+    "id": "product-1881",
+    "createdAt": "Date.now() - 6470000",
+    "name": "Luxury China Spandex Cot Half Sleeve Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752298921_S_5.jpg"
+  },
+  {
+    "id": "product-1882",
+    "createdAt": "Date.now() - 6480000",
+    "name": "Luxury China Spandex Cot Half Sleeve Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752298921_S_4.jpg"
+  },
+  {
+    "id": "product-1883",
+    "createdAt": "Date.now() - 6490000",
+    "name": "Luxury China Spandex Cot Half Sleeve Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752298920_S_3.jpg"
+  },
+  {
+    "id": "product-1884",
+    "createdAt": "Date.now() - 6500000",
+    "name": "Luxury China Spandex Cot Half Sleeve Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752298920_S_2.jpg"
+  },
+  {
+    "id": "product-1885",
+    "createdAt": "Date.now() - 6510000",
+    "name": "Luxury China Spandex Cot Half Sleeve Shirt",
+    "price": 850,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752298920_S_1.jpg"
+  },
+  {
+    "id": "product-1886",
+    "createdAt": "Date.now() - 6520000",
+    "name": "Pure Cotton Half Sleeve Print Shirt for Men's",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752260759_S_16.jpg"
+  },
+  {
+    "id": "product-1887",
+    "createdAt": "Date.now() - 6530000",
+    "name": "Pure Cotton Half Sleeve Print Shirt for Men's",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752260759_S_15.jpg"
+  },
+  {
+    "id": "product-1888",
+    "createdAt": "Date.now() - 6540000",
+    "name": "Pure Cotton Half Sleeve Print Shirt for Men's",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752260759_S_14.jpg"
+  },
+  {
+    "id": "product-1889",
+    "createdAt": "Date.now() - 6550000",
+    "name": "Pure Cotton Half Sleeve Print Shirt for Men's",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752260759_S_13.jpg"
+  },
+  {
+    "id": "product-1890",
+    "createdAt": "Date.now() - 6560000",
+    "name": "Pure Cotton Half Sleeve Print Shirt for Men's",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752260759_S_12.jpg"
+  },
+  {
+    "id": "product-1891",
+    "createdAt": "Date.now() - 6570000",
+    "name": "Pure Cotton Half Sleeve Print Shirt for Men's",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752260759_S_11.jpg"
+  },
+  {
+    "id": "product-1892",
+    "createdAt": "Date.now() - 6580000",
+    "name": "Pure Cotton Half Sleeve Print Shirt for Men's",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752260759_S_10.jpg"
+  },
+  {
+    "id": "product-1893",
+    "createdAt": "Date.now() - 6590000",
+    "name": "Pure Cotton Half Sleeve Print Shirt for Men's",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752260759_S_9.jpg"
+  },
+  {
+    "id": "product-1894",
+    "createdAt": "Date.now() - 6600000",
+    "name": "Pure Cotton Half Sleeve Print Shirt for Men's",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752260759_S_8.jpg"
+  },
+  {
+    "id": "product-1895",
+    "createdAt": "Date.now() - 6610000",
+    "name": "Pure Cotton Half Sleeve Print Shirt for Men's",
+    "price": 620,
+    "category": "স্টাইলিস শার্ট",
+    "description": "Fabric: Premium Quality Cotton.\nComfortable to wear for any occasion.\nAvailable Sizes: M, L, XL.\n\nSize Chart:\nM: Chest-40\", Length-28\"\nL: Chest-42\", Length-29\"\nXL: Chest-44\", Length-30\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752260759_S_7.jpg"
+  },
+
   
 
 ];
