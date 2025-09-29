@@ -5651,6 +5651,1820 @@ export const INITIAL_PRODUCTS: Product[] = [
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": "product-2046",
+    "createdAt": "Date.now() - 8120000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694989_S_6.jpg"
+  },
+  {
+    "id": "product-2047",
+    "createdAt": "Date.now() - 8130000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694989_S_5.jpg"
+  },
+  {
+    "id": "product-2048",
+    "createdAt": "Date.now() - 8140000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694989_S_4.jpg"
+  },
+  {
+    "id": "product-2049",
+    "createdAt": "Date.now() - 8150000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694989_S_3.jpg"
+  },
+  {
+    "id": "product-2050",
+    "createdAt": "Date.now() - 8160000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694989_S_2.jpg"
+  },
+  {
+    "id": "product-2051",
+    "createdAt": "Date.now() - 8170000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694989_S_1.jpg"
+  },
+  {
+    "id": "product-2052",
+    "createdAt": "Date.now() - 8180000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694707_S_20.jpg"
+  },
+  {
+    "id": "product-2053",
+    "createdAt": "Date.now() - 8190000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694707_S_19.jpg"
+  },
+  {
+    "id": "product-2054",
+    "createdAt": "Date.now() - 8200000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694707_S_18.jpg"
+  },
+  {
+    "id": "product-2055",
+    "createdAt": "Date.now() - 8210000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694707_S_17.jpg"
+  },
+  {
+    "id": "product-2056",
+    "createdAt": "Date.now() - 8220000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694707_S_16.jpg"
+  },
+  {
+    "id": "product-2057",
+    "createdAt": "Date.now() - 8230000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694707_S_15.jpg"
+  },
+  {
+    "id": "product-2058",
+    "createdAt": "Date.now() - 8240000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694707_S_14.jpg"
+  },
+  {
+    "id": "product-2059",
+    "createdAt": "Date.now() - 8250000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694707_S_13.jpg"
+  },
+  {
+    "id": "product-2060",
+    "createdAt": "Date.now() - 8260000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694706_S_12.jpg"
+  },
+  {
+    "id": "product-2061",
+    "createdAt": "Date.now() - 8270000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694706_S_11.jpg"
+  },
+  {
+    "id": "product-2062",
+    "createdAt": "Date.now() - 8280000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694706_S_10.jpg"
+  },
+  {
+    "id": "product-2063",
+    "createdAt": "Date.now() - 8290000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694706_S_9.jpg"
+  },
+  {
+    "id": "product-2064",
+    "createdAt": "Date.now() - 8300000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694706_S_8.jpg"
+  },
+  {
+    "id": "product-2065",
+    "createdAt": "Date.now() - 8310000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694706_S_7.jpg"
+  },
+  {
+    "id": "product-2066",
+    "createdAt": "Date.now() - 8320000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694706_S_6.jpg"
+  },
+  {
+    "id": "product-2067",
+    "createdAt": "Date.now() - 8330000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694706_S_5.jpg"
+  },
+  {
+    "id": "product-2068",
+    "createdAt": "Date.now() - 8340000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694706_S_4.jpg"
+  },
+  {
+    "id": "product-2069",
+    "createdAt": "Date.now() - 8350000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694706_S_3.jpg"
+  },
+  {
+    "id": "product-2070",
+    "createdAt": "Date.now() - 8360000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694706_S_2.jpg"
+  },
+  {
+    "id": "product-2071",
+    "createdAt": "Date.now() - 8370000",
+    "name": "Semi Moslin Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758694706_S_1.jpg"
+  },
+  {
+    "id": "product-2072",
+    "createdAt": "Date.now() - 8380000",
+    "name": "Premium Parsha Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758432974_S_4.jpg"
+  },
+  {
+    "id": "product-2073",
+    "createdAt": "Date.now() - 8390000",
+    "name": "Premium Parsha Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758432974_S_3.jpg"
+  },
+  {
+    "id": "product-2074",
+    "createdAt": "Date.now() - 8400000",
+    "name": "Premium Parsha Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758432974_S_2.jpg"
+  },
+  {
+    "id": "product-2075",
+    "createdAt": "Date.now() - 8410000",
+    "name": "Premium Parsha Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758432974_S_1.jpg"
+  },
+  {
+    "id": "product-2076",
+    "createdAt": "Date.now() - 8420000",
+    "name": "Premium Alpana Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758432698_S_3.jpg"
+  },
+  {
+    "id": "product-2077",
+    "createdAt": "Date.now() - 8430000",
+    "name": "Premium Alpana Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758432698_S_2.jpg"
+  },
+  {
+    "id": "product-2078",
+    "createdAt": "Date.now() - 8440000",
+    "name": "Premium Alpana Sharee with Blouse Piece",
+    "price": 1220,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758432698_S_1.jpg"
+  },
+  {
+    "id": "product-2079",
+    "createdAt": "Date.now() - 8450000",
+    "name": "Premium Parsha Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758432409_S_7.jpg"
+  },
+  {
+    "id": "product-2080",
+    "createdAt": "Date.now() - 8460000",
+    "name": "Premium Parsha Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758432409_S_6.jpg"
+  },
+  {
+    "id": "product-2081",
+    "createdAt": "Date.now() - 8470000",
+    "name": "Premium Parsha Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758432409_S_5.jpg"
+  },
+  {
+    "id": "product-2082",
+    "createdAt": "Date.now() - 8480000",
+    "name": "Premium Parsha Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758432409_S_4.jpg"
+  },
+  {
+    "id": "product-2083",
+    "createdAt": "Date.now() - 8490000",
+    "name": "Premium Parsha Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758432409_S_3.jpg"
+  },
+  {
+    "id": "product-2084",
+    "createdAt": "Date.now() - 8500000",
+    "name": "Premium Parsha Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758432409_S_2.jpg"
+  },
+  {
+    "id": "product-2085",
+    "createdAt": "Date.now() - 8510000",
+    "name": "Premium Parsha Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758432409_S_1.jpg"
+  },
+  {
+    "id": "product-2086",
+    "createdAt": "Date.now() - 8520000",
+    "name": "Digital Print sharee with blause pcs",
+    "price": 1199,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758263278_S_3.jpg"
+  },
+  {
+    "id": "product-2087",
+    "createdAt": "Date.now() - 8530000",
+    "name": "Digital Print sharee with blause pcs",
+    "price": 1199,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758263278_S_2.jpg"
+  },
+  {
+    "id": "product-2088",
+    "createdAt": "Date.now() - 8540000",
+    "name": "Digital Print sharee with blause pcs",
+    "price": 1199,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758263278_S_1.jpg"
+  },
+  {
+    "id": "product-2089",
+    "createdAt": "Date.now() - 8550000",
+    "name": "Mahisa Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758262417_S_3.jpg"
+  },
+  {
+    "id": "product-2090",
+    "createdAt": "Date.now() - 8560000",
+    "name": "Mahisa Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758262417_S_2.jpg"
+  },
+  {
+    "id": "product-2091",
+    "createdAt": "Date.now() - 8570000",
+    "name": "Mahisa Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1758262417_S_1.jpg"
+  },
+  {
+    "id": "product-2092",
+    "createdAt": "Date.now() - 8580000",
+    "name": "Makhon Jorget Sequence Work Saree",
+    "price": 1950,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757752823_S_3.jpg"
+  },
+  {
+    "id": "product-2093",
+    "createdAt": "Date.now() - 8590000",
+    "name": "Makhon Jorget Sequence Work Saree",
+    "price": 1950,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757752823_S_2.jpg"
+  },
+  {
+    "id": "product-2094",
+    "createdAt": "Date.now() - 8600000",
+    "name": "Makhon Jorget Sequence Work Saree",
+    "price": 1950,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757752823_S_1.jpg"
+  },
+  {
+    "id": "product-2095",
+    "createdAt": "Date.now() - 8610000",
+    "name": "Premium Japani Silk Sharee",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757742832_S_6.jpg"
+  },
+  {
+    "id": "product-2096",
+    "createdAt": "Date.now() - 8620000",
+    "name": "Premium Japani Silk Sharee",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757742832_S_5.jpg"
+  },
+  {
+    "id": "product-2097",
+    "createdAt": "Date.now() - 8630000",
+    "name": "Premium Japani Silk Sharee",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757742832_S_4.jpg"
+  },
+  {
+    "id": "product-2098",
+    "createdAt": "Date.now() - 8640000",
+    "name": "Premium Japani Silk Sharee",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757742832_S_3.jpg"
+  },
+  {
+    "id": "product-2099",
+    "createdAt": "Date.now() - 8650000",
+    "name": "Premium Japani Silk Sharee",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757742832_S_2.jpg"
+  },
+  {
+    "id": "product-2100",
+    "createdAt": "Date.now() - 8660000",
+    "name": "Premium Japani Silk Sharee",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757742832_S_1.jpg"
+  },
+  {
+    "id": "product-2101",
+    "createdAt": "Date.now() - 8670000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757741573_S_15.jpg"
+  },
+  {
+    "id": "product-2102",
+    "createdAt": "Date.now() - 8680000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757741573_S_14.jpg"
+  },
+  {
+    "id": "product-2103",
+    "createdAt": "Date.now() - 8690000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757741573_S_13.jpg"
+  },
+  {
+    "id": "product-2104",
+    "createdAt": "Date.now() - 8700000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757741572_S_12.jpg"
+  },
+  {
+    "id": "product-2105",
+    "createdAt": "Date.now() - 8710000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757741572_S_11.jpg"
+  },
+  {
+    "id": "product-2106",
+    "createdAt": "Date.now() - 8720000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757741572_S_10.jpg"
+  },
+  {
+    "id": "product-2107",
+    "createdAt": "Date.now() - 8730000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757741572_S_9.jpg"
+  },
+  {
+    "id": "product-2108",
+    "createdAt": "Date.now() - 8740000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757741572_S_8.jpg"
+  },
+  {
+    "id": "product-2109",
+    "createdAt": "Date.now() - 8750000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757741572_S_7.jpg"
+  },
+  {
+    "id": "product-2110",
+    "createdAt": "Date.now() - 8760000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757741572_S_6.jpg"
+  },
+  {
+    "id": "product-2111",
+    "createdAt": "Date.now() - 8770000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757741572_S_5.jpg"
+  },
+  {
+    "id": "product-2112",
+    "createdAt": "Date.now() - 8780000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757741572_S_4.jpg"
+  },
+  {
+    "id": "product-2113",
+    "createdAt": "Date.now() - 8790000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757741572_S_3.jpg"
+  },
+  {
+    "id": "product-2114",
+    "createdAt": "Date.now() - 8800000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757741572_S_2.jpg"
+  },
+  {
+    "id": "product-2115",
+    "createdAt": "Date.now() - 8810000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757741572_S_1.jpg"
+  },
+  {
+    "id": "product-2116",
+    "createdAt": "Date.now() - 8820000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740782_S_17.jpg"
+  },
+  {
+    "id": "product-2117",
+    "createdAt": "Date.now() - 8830000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740782_S_16.jpg"
+  },
+  {
+    "id": "product-2118",
+    "createdAt": "Date.now() - 8840000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740782_S_15.jpg"
+  },
+  {
+    "id": "product-2119",
+    "createdAt": "Date.now() - 8850000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "শাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740781_S_14.jpg"
+  },
+  {
+    "id": "product-2120",
+    "createdAt": "Date.now() - 8860000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740781_S_13.jpg"
+  },
+  {
+    "id": "product-2121",
+    "createdAt": "Date.now() - 8870000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740781_S_12.jpg"
+  },
+  {
+    "id": "product-2122",
+    "createdAt": "Date.now() - 8880000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740781_S_11.jpg"
+  },
+  {
+    "id": "product-2123",
+    "createdAt": "Date.now() - 8890000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740781_S_10.jpg"
+  },
+  {
+    "id": "product-2124",
+    "createdAt": "Date.now() - 8900000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740781_S_9.jpg"
+  },
+  {
+    "id": "product-2125",
+    "createdAt": "Date.now() - 8910000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740781_S_8.jpg"
+  },
+  {
+    "id": "product-2126",
+    "createdAt": "Date.now() - 8920000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740781_S_7.jpg"
+  },
+  {
+    "id": "product-2127",
+    "createdAt": "Date.now() - 8930000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740781_S_6.jpg"
+  },
+  {
+    "id": "product-2128",
+    "createdAt": "Date.now() - 8940000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740781_S_5.jpg"
+  },
+  {
+    "id": "product-2129",
+    "createdAt": "Date.now() - 8950000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740781_S_4.jpg"
+  },
+  {
+    "id": "product-2130",
+    "createdAt": "Date.now() - 8960000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740781_S_3.jpg"
+  },
+  {
+    "id": "product-2131",
+    "createdAt": "Date.now() - 8970000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740781_S_2.jpg"
+  },
+  {
+    "id": "product-2132",
+    "createdAt": "Date.now() - 8980000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740781_S_1.jpg"
+  },
+  {
+    "id": "product-2133",
+    "createdAt": "Date.now() - 8990000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740745_S_17.jpg"
+  },
+  {
+    "id": "product-2134",
+    "createdAt": "Date.now() - 9000000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740745_S_16.jpg"
+  },
+  {
+    "id": "product-2135",
+    "createdAt": "Date.now() - 9010000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740745_S_15.jpg"
+  },
+  {
+    "id": "product-2136",
+    "createdAt": "Date.now() - 9020000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740745_S_14.jpg"
+  },
+  {
+    "id": "product-2137",
+    "createdAt": "Date.now() - 9030000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740745_S_13.jpg"
+  },
+  {
+    "id": "product-2138",
+    "createdAt": "Date.now() - 9040000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740745_S_12.jpg"
+  },
+  {
+    "id": "product-2139",
+    "createdAt": "Date.now() - 9050000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740745_S_11.jpg"
+  },
+  {
+    "id": "product-2140",
+    "createdAt": "Date.now() - 9060000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740745_S_10.jpg"
+  },
+  {
+    "id": "product-2141",
+    "createdAt": "Date.now() - 9070000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740745_S_9.jpg"
+  },
+  {
+    "id": "product-2142",
+    "createdAt": "Date.now() - 9080000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740745_S_8.jpg"
+  },
+  {
+    "id": "product-2143",
+    "createdAt": "Date.now() - 9090000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740745_S_7.jpg"
+  },
+  {
+    "id": "product-2144",
+    "createdAt": "Date.now() - 9100000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740745_S_6.jpg"
+  },
+  {
+    "id": "product-2145",
+    "createdAt": "Date.now() - 9110000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740744_S_5.jpg"
+  },
+  {
+    "id": "product-2146",
+    "createdAt": "Date.now() - 9120000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740744_S_4.jpg"
+  },
+  {
+    "id": "product-2147",
+    "createdAt": "Date.now() - 9130000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740744_S_3.jpg"
+  },
+  {
+    "id": "product-2148",
+    "createdAt": "Date.now() - 9140000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740744_S_2.jpg"
+  },
+  {
+    "id": "product-2149",
+    "createdAt": "Date.now() - 9150000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740744_S_1.jpg"
+  },
+  {
+    "id": "product-2150",
+    "createdAt": "Date.now() - 9160000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_17.jpg"
+  },
+  {
+    "id": "product-2151",
+    "createdAt": "Date.now() - 9170000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_16.jpg"
+  },
+  {
+    "id": "product-2152",
+    "createdAt": "Date.now() - 9180000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_15.jpg"
+  },
+  {
+    "id": "product-2153",
+    "createdAt": "Date.now() - 9190000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_14.jpg"
+  },
+  {
+    "id": "product-2154",
+    "createdAt": "Date.now() - 9200000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_13.jpg"
+  },
+  {
+    "id": "product-2155",
+    "createdAt": "Date.now() - 9210000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_12.jpg"
+  },
+  {
+    "id": "product-2156",
+    "createdAt": "Date.now() - 9220000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_11.jpg"
+  },
+  {
+    "id": "product-2157",
+    "createdAt": "Date.now() - 9230000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_10.jpg"
+  },
+  {
+    "id": "product-2158",
+    "createdAt": "Date.now() - 9240000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_9.jpg"
+  },
+  {
+    "id": "product-2159",
+    "createdAt": "Date.now() - 9250000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_8.jpg"
+  },
+  {
+    "id": "product-2160",
+    "createdAt": "Date.now() - 9260000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_7.jpg"
+  },
+  {
+    "id": "product-2161",
+    "createdAt": "Date.now() - 9270000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_6.jpg"
+  },
+  {
+    "id": "product-2162",
+    "createdAt": "Date.now() - 9280000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_5.jpg"
+  },
+  {
+    "id": "product-2163",
+    "createdAt": "Date.now() - 9290000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_4.jpg"
+  },
+  {
+    "id": "product-2164",
+    "createdAt": "Date.now() - 9300000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_3.jpg"
+  },
+  {
+    "id": "product-2165",
+    "createdAt": "Date.now() - 9310000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_2.jpg"
+  },
+  {
+    "id": "product-2166",
+    "createdAt": "Date.now() - 9320000",
+    "name": "Chanduri Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757740706_S_1.jpg"
+  },
+  {
+    "id": "product-2167",
+    "createdAt": "Date.now() - 9330000",
+    "name": "Semi Moslin Sharee  with Blouse Piece",
+    "price": 1099,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757674432_S_5.jpg"
+  },
+  {
+    "id": "product-2168",
+    "createdAt": "Date.now() - 9340000",
+    "name": "Semi Moslin Sharee  with Blouse Piece",
+    "price": 1099,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757674432_S_4.jpg"
+  },
+  {
+    "id": "product-2169",
+    "createdAt": "Date.now() - 9350000",
+    "name": "Semi Moslin Sharee  with Blouse Piece",
+    "price": 1099,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757674432_S_3.jpg"
+  },
+  {
+    "id": "product-2170",
+    "createdAt": "Date.now() - 9360000",
+    "name": "Semi Moslin Sharee  with Blouse Piece",
+    "price": 1099,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757674432_S_2.jpg"
+  },
+  {
+    "id": "product-2171",
+    "createdAt": "Date.now() - 9370000",
+    "name": "Semi Moslin Sharee  with Blouse Piece",
+    "price": 1099,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757674432_S_1.jpg"
+  },
+  {
+    "id": "product-2172",
+    "createdAt": "Date.now() - 9380000",
+    "name": "Premium Half Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757674103_S_3.jpg"
+  },
+  {
+    "id": "product-2173",
+    "createdAt": "Date.now() - 9390000",
+    "name": "Premium Half Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757674103_S_2.jpg"
+  },
+  {
+    "id": "product-2174",
+    "createdAt": "Date.now() - 9400000",
+    "name": "Premium Half Silk Sharee",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757674103_S_1.jpg"
+  },
+  {
+    "id": "product-2175",
+    "createdAt": "Date.now() - 9410000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757672416_S_15.jpg"
+  },
+  {
+    "id": "product-2176",
+    "createdAt": "Date.now() - 9420000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757672416_S_14.jpg"
+  },
+  {
+    "id": "product-2177",
+    "createdAt": "Date.now() - 9430000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757672416_S_13.jpg"
+  },
+  {
+    "id": "product-2178",
+    "createdAt": "Date.now() - 9440000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757672416_S_12.jpg"
+  },
+  {
+    "id": "product-2179",
+    "createdAt": "Date.now() - 9450000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757672416_S_11.jpg"
+  },
+  {
+    "id": "product-2180",
+    "createdAt": "Date.now() - 9460000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757672416_S_10.jpg"
+  },
+  {
+    "id": "product-2181",
+    "createdAt": "Date.now() - 9470000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757672416_S_9.jpg"
+  },
+  {
+    "id": "product-2182",
+    "createdAt": "Date.now() - 9480000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757672415_S_8.jpg"
+  },
+  {
+    "id": "product-2183",
+    "createdAt": "Date.now() - 9490000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757672415_S_7.jpg"
+  },
+  {
+    "id": "product-2184",
+    "createdAt": "Date.now() - 9500000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757672415_S_6.jpg"
+  },
+  {
+    "id": "product-2185",
+    "createdAt": "Date.now() - 9510000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757672415_S_5.jpg"
+  },
+  {
+    "id": "product-2186",
+    "createdAt": "Date.now() - 9520000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757672415_S_4.jpg"
+  },
+  {
+    "id": "product-2187",
+    "createdAt": "Date.now() - 9530000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757672415_S_3.jpg"
+  },
+  {
+    "id": "product-2188",
+    "createdAt": "Date.now() - 9540000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757672415_S_2.jpg"
+  },
+  {
+    "id": "product-2189",
+    "createdAt": "Date.now() - 9550000",
+    "name": "Sharee Panjabi Couple with Blouse Piece",
+    "price": 1270,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757672415_S_1.jpg"
+  },
+  {
+    "id": "product-2190",
+    "createdAt": "Date.now() - 9560000",
+    "name": "Embroidery Georgette Saree",
+    "price": 1670,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757511450_S_4.jpg"
+  },
+  {
+    "id": "product-2191",
+    "createdAt": "Date.now() - 9570000",
+    "name": "Embroidery Georgette Saree",
+    "price": 1670,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757511450_S_3.jpg"
+  },
+  {
+    "id": "product-2192",
+    "createdAt": "Date.now() - 9580000",
+    "name": "Embroidery Georgette Saree",
+    "price": 1670,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757511450_S_2.jpg"
+  },
+  {
+    "id": "product-2193",
+    "createdAt": "Date.now() - 9590000",
+    "name": "Embroidery Georgette Saree",
+    "price": 1670,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757511450_S_1.jpg"
+  },
+  {
+    "id": "product-2194",
+    "createdAt": "Date.now() - 9600000",
+    "name": "Rongdhonu Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757435804_S_4.jpg"
+  },
+  {
+    "id": "product-2195",
+    "createdAt": "Date.now() - 9610000",
+    "name": "Rongdhonu Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757435804_S_3.jpg"
+  },
+  {
+    "id": "product-2196",
+    "createdAt": "Date.now() - 9620000",
+    "name": "Rongdhonu Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757435804_S_2.jpg"
+  },
+  {
+    "id": "product-2197",
+    "createdAt": "Date.now() - 9630000",
+    "name": "Rongdhonu Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757435804_S_1.jpg"
+  },
+  {
+    "id": "product-2198",
+    "createdAt": "Date.now() - 9640000",
+    "name": "Premium Micro Georgette Saree",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757098507_S_3.jpg"
+  },
+  {
+    "id": "product-2199",
+    "createdAt": "Date.now() - 9650000",
+    "name": "Premium Micro Georgette Saree",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757098507_S_2.jpg"
+  },
+  {
+    "id": "product-2200",
+    "createdAt": "Date.now() - 9660000",
+    "name": "Premium Micro Georgette Saree",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757098507_S_1.jpg"
+  },
+  {
+    "id": "product-2201",
+    "createdAt": "Date.now() - 9670000",
+    "name": "Stylish cotton share with blause pcs",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757098186_S_4.jpg"
+  },
+  {
+    "id": "product-2202",
+    "createdAt": "Date.now() - 9680000",
+    "name": "Stylish cotton share with blause pcs",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757098186_S_3.jpg"
+  },
+  {
+    "id": "product-2203",
+    "createdAt": "Date.now() - 9690000",
+    "name": "Stylish cotton share with blause pcs",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757098186_S_2.jpg"
+  },
+  {
+    "id": "product-2204",
+    "createdAt": "Date.now() - 9700000",
+    "name": "Stylish cotton share with blause pcs",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757098186_S_1.jpg"
+  },
+  {
+    "id": "product-2205",
+    "createdAt": "Date.now() - 9710000",
+    "name": "soft  Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757096754_S_7.jpg"
+  },
+  {
+    "id": "product-2206",
+    "createdAt": "Date.now() - 9720000",
+    "name": "soft  Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757096754_S_6.jpg"
+  },
+  {
+    "id": "product-2207",
+    "createdAt": "Date.now() - 9730000",
+    "name": "soft  Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757096754_S_5.jpg"
+  },
+  {
+    "id": "product-2208",
+    "createdAt": "Date.now() - 9740000",
+    "name": "soft  Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757096754_S_4.jpg"
+  },
+  {
+    "id": "product-2209",
+    "createdAt": "Date.now() - 9750000",
+    "name": "soft  Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757096754_S_3.jpg"
+  },
+  {
+    "id": "product-2210",
+    "createdAt": "Date.now() - 9760000",
+    "name": "soft  Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757096754_S_2.jpg"
+  },
+  {
+    "id": "product-2211",
+    "createdAt": "Date.now() - 9770000",
+    "name": "soft  Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757096754_S_1.jpg"
+  },
+  {
+    "id": "product-2212",
+    "createdAt": "Date.now() - 9780000",
+    "name": "Rongdhonu  Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757096058_S_7.jpg"
+  },
+  {
+    "id": "product-2213",
+    "createdAt": "Date.now() - 9790000",
+    "name": "Rongdhonu  Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757096058_S_6.jpg"
+  },
+  {
+    "id": "product-2214",
+    "createdAt": "Date.now() - 9800000",
+    "name": "Rongdhonu  Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757096058_S_5.jpg"
+  },
+  {
+    "id": "product-2215",
+    "createdAt": "Date.now() - 9810000",
+    "name": "Rongdhonu  Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757096058_S_4.jpg"
+  },
+  {
+    "id": "product-2216",
+    "createdAt": "Date.now() - 9820000",
+    "name": "Rongdhonu  Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757096058_S_3.jpg"
+  },
+  {
+    "id": "product-2217",
+    "createdAt": "Date.now() - 9830000",
+    "name": "Rongdhonu  Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757096058_S_2.jpg"
+  },
+  {
+    "id": "product-2218",
+    "createdAt": "Date.now() - 9840000",
+    "name": "Rongdhonu  Georgette sharee",
+    "price": 1199,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757096058_S_1.jpg"
+  },
+  {
+    "id": "product-2219",
+    "createdAt": "Date.now() - 9850000",
+    "name": "Elegant Weightless Georgette Saree",
+    "price": 1070,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757095565_S_7.jpg"
+  },
+  {
+    "id": "product-2220",
+    "createdAt": "Date.now() - 9860000",
+    "name": "Elegant Weightless Georgette Saree",
+    "price": 1070,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757095565_S_6.jpg"
+  },
+  {
+    "id": "product-2221",
+    "createdAt": "Date.now() - 9870000",
+    "name": "Elegant Weightless Georgette Saree",
+    "price": 1070,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757095565_S_5.jpg"
+  },
+  {
+    "id": "product-2222",
+    "createdAt": "Date.now() - 9880000",
+    "name": "Elegant Weightless Georgette Saree",
+    "price": 1070,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757095565_S_4.jpg"
+  },
+  {
+    "id": "product-2223",
+    "createdAt": "Date.now() - 9890000",
+    "name": "Elegant Weightless Georgette Saree",
+    "price": 1070,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757095565_S_3.jpg"
+  },
+  {
+    "id": "product-2224",
+    "createdAt": "Date.now() - 9900000",
+    "name": "Elegant Weightless Georgette Saree",
+    "price": 1070,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757095565_S_2.jpg"
+  },
+  {
+    "id": "product-2225",
+    "createdAt": "Date.now() - 9910000",
+    "name": "Elegant Weightless Georgette Saree",
+    "price": 1070,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757095565_S_1.jpg"
+  },
+  {
+    "id": "product-2226",
+    "createdAt": "Date.now() - 9920000",
+    "name": "Elegant Lace Work Georgette Saree",
+    "price": 1299,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757000846_S_2.jpg"
+  },
+  {
+    "id": "product-2227",
+    "createdAt": "Date.now() - 9930000",
+    "name": "Elegant Lace Work Georgette Saree",
+    "price": 1299,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1757000846_S_1.jpg"
+  },
+  {
+    "id": "product-2228",
+    "createdAt": "Date.now() - 9940000",
+    "name": "Dhupiyan Silk Saree",
+    "price": 1220,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970899_S_6.jpg"
+  },
+  {
+    "id": "product-2229",
+    "createdAt": "Date.now() - 9950000",
+    "name": "Dhupiyan Silk Saree",
+    "price": 1220,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970899_S_5.jpg"
+  },
+  {
+    "id": "product-2230",
+    "createdAt": "Date.now() - 9960000",
+    "name": "Dhupiyan Silk Saree",
+    "price": 1220,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970899_S_4.jpg"
+  },
+  {
+    "id": "product-2231",
+    "createdAt": "Date.now() - 9970000",
+    "name": "Dhupiyan Silk Saree",
+    "price": 1220,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970899_S_3.jpg"
+  },
+  {
+    "id": "product-2232",
+    "createdAt": "Date.now() - 9980000",
+    "name": "Dhupiyan Silk Saree",
+    "price": 1220,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970899_S_2.jpg"
+  },
+  {
+    "id": "product-2233",
+    "createdAt": "Date.now() - 9990000",
+    "name": "Dhupiyan Silk Saree",
+    "price": 1220,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970899_S_1.jpg"
+  },
+  {
+    "id": "product-2234",
+    "createdAt": "Date.now() - 10000000",
+    "name": "Half Silk Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970106_S_10.jpg"
+  },
+  {
+    "id": "product-2235",
+    "createdAt": "Date.now() - 10010000",
+    "name": "Half Silk Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970106_S_9.jpg"
+  },
+  {
+    "id": "product-2236",
+    "createdAt": "Date.now() - 10020000",
+    "name": "Half Silk Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970106_S_8.jpg"
+  },
+  {
+    "id": "product-2237",
+    "createdAt": "Date.now() - 10030000",
+    "name": "Half Silk Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970106_S_7.jpg"
+  },
+  {
+    "id": "product-2238",
+    "createdAt": "Date.now() - 10040000",
+    "name": "Half Silk Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970106_S_6.jpg"
+  },
+  {
+    "id": "product-2239",
+    "createdAt": "Date.now() - 10050000",
+    "name": "Half Silk Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970106_S_5.jpg"
+  },
+  {
+    "id": "product-2240",
+    "createdAt": "Date.now() - 10060000",
+    "name": "Half Silk Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970106_S_4.jpg"
+  },
+  {
+    "id": "product-2241",
+    "createdAt": "Date.now() - 10070000",
+    "name": "Half Silk Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970106_S_3.jpg"
+  },
+  {
+    "id": "product-2242",
+    "createdAt": "Date.now() - 10080000",
+    "name": "Half Silk Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970106_S_2.jpg"
+  },
+  {
+    "id": "product-2243",
+    "createdAt": "Date.now() - 10090000",
+    "name": "Half Silk Sharee with Blouse Piece",
+    "price": 1050,
+    "category": "שাড়ি",
+    "description": "Material: High-Quality Fabric (e.g., Moslin, Silk, Georgette).\nLength: Approximately 12 haat (Standard Size).\nWork: Exquisite digital print / embroidery / sequence work.\nBlouse Piece: Matching blouse piece included.\nOccasion: Perfect for festivals, parties, and casual wear.\n\nCare Instructions: Dry clean recommended for long-lasting beauty.",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1756970106_S_1.jpg"
+  },
+
+
   
   
 
