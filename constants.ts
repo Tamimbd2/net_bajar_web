@@ -1106,6 +1106,21 @@ export const INITIAL_PRODUCTS: Product[] = [
     imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1748188214_S_4.jpg"
   },
 
+
+  //প্রিন্ট পাঞ্জাবি-- আইডি 1201-1400 পর্যন্ত 
+
+    {
+    id: 'product-1201',
+    createdAt: Date.now() - 100000,
+    name: "Premium Product Set",
+    price: 1199,
+    category: "প্রিন্ট পাঞ্জাবি",
+    description: "Digital Print Panjabi কট সিকুয়েন্সের কাজ করা আমাদের প্রতিটি পাঞ্জাবিতে প্রিমিয়াম কোয়ালিটি চায়না স্নাপ বাটন ইউজ করা হয়। সাইজ / ৪০/৪২/৪৪/৪৬",
+    imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1748188214_S_4.jpg"
+  },
+
+  
+
 ];
 
 
