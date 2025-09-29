@@ -482,6 +482,16 @@ export const INITIAL_PRODUCTS: Product[] = [
 
 
   
+  //Mash T-Shirt and Short Pant Set -- আইডি 1000-1200 পর্যন্ত 
+
+    {
+    id: 'product-1001', createdAt: Date.now() - 100000, name: "Mash T-Shirt and Short Pant Set", price: 420, category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_20.jpg"
+  },
+      {
+    id: 'product-1002', createdAt: Date.now() - 100000, name: "Mash T-Shirt and Short Pant Set", price: 420, category: "Mash T-Shirt and Short Pant Set",
+    description: descriptionTemplate, imageUrl: "https://shopbasebd.com/public/uploads/shop/products/1752771666_S_19.jpg"
+  },
   
 
 ];
