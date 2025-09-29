@@ -4853,6 +4853,609 @@ export const INITIAL_PRODUCTS: Product[] = [
   },
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//trouser
+
+
+
+
+
+
+
+  {
+    "id": "product-1982",
+    "createdAt": "Date.now() - 7480000",
+    "name": "Black Cargo Stripe Sweatpants Joggers",
+    "price": 550,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1746283261_S_5.jpg"
+  },
+  {
+    "id": "product-1983",
+    "createdAt": "Date.now() - 7490000",
+    "name": "Black Cargo Stripe Sweatpants Joggers",
+    "price": 550,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1746283261_S_4.jpg"
+  },
+  {
+    "id": "product-1984",
+    "createdAt": "Date.now() - 7500000",
+    "name": "Black Cargo Stripe Sweatpants Joggers",
+    "price": 550,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1746283261_S_3.jpg"
+  },
+  {
+    "id": "product-1985",
+    "createdAt": "Date.now() - 7510000",
+    "name": "Black Cargo Stripe Sweatpants Joggers",
+    "price": 550,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1746283261_S_2.jpg"
+  },
+  {
+    "id": "product-1986",
+    "createdAt": "Date.now() - 7520000",
+    "name": "Black Cargo Stripe Sweatpants Joggers",
+    "price": 550,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1746283261_S_1.jpg"
+  },
+  {
+    "id": "product-1987",
+    "createdAt": "Date.now() - 7530000",
+    "name": "সেমি স্ট্রিজ সুতি পাজামা",
+    "price": 490,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1742067472_S_1.jpg"
+  },
+  {
+    "id": "product-1988",
+    "createdAt": "Date.now() - 7540000",
+    "name": "Stylish Three Quarter Pant",
+    "price": 480,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1722747711_S_2.jpg"
+  },
+  {
+    "id": "product-1989",
+    "createdAt": "Date.now() - 7550000",
+    "name": "Stylish Three Quarter Pant",
+    "price": 480,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1722747711_S_1.jpg"
+  },
+  {
+    "id": "product-1990",
+    "createdAt": "Date.now() - 7560000",
+    "name": "Exclusive Trouser for men",
+    "price": 499,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1719940519_S_6.jpg"
+  },
+  {
+    "id": "product-1991",
+    "createdAt": "Date.now() - 7570000",
+    "name": "Exclusive Trouser for men",
+    "price": 499,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1719940519_S_5.jpg"
+  },
+  {
+    "id": "product-1992",
+    "createdAt": "Date.now() - 7580000",
+    "name": "Exclusive Trouser for men",
+    "price": 499,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1719940519_S_4.jpg"
+  },
+  {
+    "id": "product-1993",
+    "createdAt": "Date.now() - 7590000",
+    "name": "Exclusive Trouser for men",
+    "price": 499,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1719940519_S_3.jpg"
+  },
+  {
+    "id": "product-1994",
+    "createdAt": "Date.now() - 7600000",
+    "name": "Exclusive Trouser for men",
+    "price": 499,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1719940518_S_2.jpg"
+  },
+  {
+    "id": "product-1995",
+    "createdAt": "Date.now() - 7610000",
+    "name": "Exclusive Trouser for men",
+    "price": 499,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1719940518_S_1.jpg"
+  },
+  {
+    "id": "product-1996",
+    "createdAt": "Date.now() - 7620000",
+    "name": "Stylish Premium Joggers Pant",
+    "price": 760,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705428362_S_10.jpg"
+  },
+  {
+    "id": "product-1997",
+    "createdAt": "Date.now() - 7630000",
+    "name": "Stylish Premium Joggers Pant",
+    "price": 760,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705428362_S_9.jpg"
+  },
+  {
+    "id": "product-1998",
+    "createdAt": "Date.now() - 7640000",
+    "name": "Stylish Premium Joggers Pant",
+    "price": 760,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705428362_S_8.jpg"
+  },
+  {
+    "id": "product-1999",
+    "createdAt": "Date.now() - 7650000",
+    "name": "Stylish Premium Joggers Pant",
+    "price": 760,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705428362_S_7.jpg"
+  },
+  {
+    "id": "product-2000",
+    "createdAt": "Date.now() - 7660000",
+    "name": "Stylish Premium Joggers Pant",
+    "price": 760,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705428362_S_6.jpg"
+  },
+  {
+    "id": "product-2001",
+    "createdAt": "Date.now() - 7670000",
+    "name": "Stylish Premium Joggers Pant",
+    "price": 760,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705428362_S_5.jpg"
+  },
+  {
+    "id": "product-2002",
+    "createdAt": "Date.now() - 7680000",
+    "name": "Stylish Premium Joggers Pant",
+    "price": 760,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705428361_S_4.jpg"
+  },
+  {
+    "id": "product-2003",
+    "createdAt": "Date.now() - 7690000",
+    "name": "Stylish Premium Joggers Pant",
+    "price": 760,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705428361_S_3.jpg"
+  },
+  {
+    "id": "product-2004",
+    "createdAt": "Date.now() - 7700000",
+    "name": "Stylish Premium Joggers Pant",
+    "price": 760,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705428361_S_2.jpg"
+  },
+  {
+    "id": "product-2005",
+    "createdAt": "Date.now() - 7710000",
+    "name": "Stylish Premium Joggers Pant",
+    "price": 760,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705428361_S_1.jpg"
+  },
+  {
+    "id": "product-2006",
+    "createdAt": "Date.now() - 7720000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258434_S_9.jpg"
+  },
+  {
+    "id": "product-2007",
+    "createdAt": "Date.now() - 7730000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258434_S_8.jpg"
+  },
+  {
+    "id": "product-2008",
+    "createdAt": "Date.now() - 7740000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258434_S_7.jpg"
+  },
+  {
+    "id": "product-2009",
+    "createdAt": "Date.now() - 7750000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258434_S_6.jpg"
+  },
+  {
+    "id": "product-2010",
+    "createdAt": "Date.now() - 7760000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258434_S_5.jpg"
+  },
+  {
+    "id": "product-2011",
+    "createdAt": "Date.now() - 7770000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258434_S_4.jpg"
+  },
+  {
+    "id": "product-2012",
+    "createdAt": "Date.now() - 7780000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258434_S_3.jpg"
+  },
+  {
+    "id": "product-2013",
+    "createdAt": "Date.now() - 7790000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258434_S_2.jpg"
+  },
+  {
+    "id": "product-2014",
+    "createdAt": "Date.now() - 7800000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258434_S_1.jpg"
+  },
+  {
+    "id": "product-2015",
+    "createdAt": "Date.now() - 7810000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258348_S_10.jpg"
+  },
+  {
+    "id": "product-2016",
+    "createdAt": "Date.now() - 7820000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258348_S_9.jpg"
+  },
+  {
+    "id": "product-2017",
+    "createdAt": "Date.now() - 7830000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258348_S_8.jpg"
+  },
+  {
+    "id": "product-2018",
+    "createdAt": "Date.now() - 7840000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258348_S_7.jpg"
+  },
+  {
+    "id": "product-2019",
+    "createdAt": "Date.now() - 7850000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258348_S_6.jpg"
+  },
+  {
+    "id": "product-2020",
+    "createdAt": "Date.now() - 7860000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258348_S_5.jpg"
+  },
+  {
+    "id": "product-2021",
+    "createdAt": "Date.now() - 7870000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258348_S_4.jpg"
+  },
+  {
+    "id": "product-2022",
+    "createdAt": "Date.now() - 7880000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258348_S_3.jpg"
+  },
+  {
+    "id": "product-2023",
+    "createdAt": "Date.now() - 7890000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258348_S_2.jpg"
+  },
+  {
+    "id": "product-2024",
+    "createdAt": "Date.now() - 7900000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258348_S_1.jpg"
+  },
+  {
+    "id": "product-2025",
+    "createdAt": "Date.now() - 7910000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_20.jpg"
+  },
+  {
+    "id": "product-2026",
+    "createdAt": "Date.now() - 7920000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_19.jpg"
+  },
+  {
+    "id": "product-2027",
+    "createdAt": "Date.now() - 7930000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_18.jpg"
+  },
+  {
+    "id": "product-2028",
+    "createdAt": "Date.now() - 7940000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_17.jpg"
+  },
+  {
+    "id": "product-2029",
+    "createdAt": "Date.now() - 7950000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_16.jpg"
+  },
+  {
+    "id": "product-2030",
+    "createdAt": "Date.now() - 7960000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_15.jpg"
+  },
+  {
+    "id": "product-2031",
+    "createdAt": "Date.now() - 7970000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_14.jpg"
+  },
+  {
+    "id": "product-2032",
+    "createdAt": "Date.now() - 7980000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_13.jpg"
+  },
+  {
+    "id": "product-2033",
+    "createdAt": "Date.now() - 7990000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_12.jpg"
+  },
+  {
+    "id": "product-2034",
+    "createdAt": "Date.now() - 8000000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_11.jpg"
+  },
+  {
+    "id": "product-2035",
+    "createdAt": "Date.now() - 8010000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_10.jpg"
+  },
+  {
+    "id": "product-2036",
+    "createdAt": "Date.now() - 8020000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_9.jpg"
+  },
+  {
+    "id": "product-2037",
+    "createdAt": "Date.now() - 8030000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_8.jpg"
+  },
+  {
+    "id": "product-2038",
+    "createdAt": "Date.now() - 8040000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_7.jpg"
+  },
+  {
+    "id": "product-2039",
+    "createdAt": "Date.now() - 8050000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_6.jpg"
+  },
+  {
+    "id": "product-2040",
+    "createdAt": "Date.now() - 8060000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_5.jpg"
+  },
+  {
+    "id": "product-2041",
+    "createdAt": "Date.now() - 8070000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_4.jpg"
+  },
+  {
+    "id": "product-2042",
+    "createdAt": "Date.now() - 8080000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_3.jpg"
+  },
+  {
+    "id": "product-2043",
+    "createdAt": "Date.now() - 8090000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_2.jpg"
+  },
+  {
+    "id": "product-2044",
+    "createdAt": "Date.now() - 8100000",
+    "name": "Stylish Trouser For Men",
+    "price": 530,
+    "category": "ট্রাউজার",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1705258226_S_1.jpg"
+  },
+
+
+
+
+
+
+
+  
   
 
 ];
