@@ -4290,6 +4290,171 @@ export const INITIAL_PRODUCTS: Product[] = [
     "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1752260759_S_7.jpg"
   },
 
+
+
+
+
+
+//pant
+  
+
+  {
+    "id": "product-1965",
+    "createdAt": "Date.now() - 7310000",
+    "name": "Trendy Mobile Pant",
+    "price": 700,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1745350034_S_2.jpg"
+  },
+  {
+    "id": "product-1966",
+    "createdAt": "Date.now() - 7320000",
+    "name": "Trendy Mobile Pant",
+    "price": 700,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1745350034_S_1.jpg"
+  },
+  {
+    "id": "product-1967",
+    "createdAt": "Date.now() - 7330000",
+    "name": "Trendy Cargo Pants",
+    "price": 800,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1745349749_S_3.jpg"
+  },
+  {
+    "id": "product-1968",
+    "createdAt": "Date.now() - 7340000",
+    "name": "Trendy Cargo Pants",
+    "price": 800,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1745349749_S_2.jpg"
+  },
+  {
+    "id": "product-1969",
+    "createdAt": "Date.now() - 7350000",
+    "name": "Trendy Cargo Pants",
+    "price": 800,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1745349749_S_1.jpg"
+  },
+  {
+    "id": "product-1970",
+    "createdAt": "Date.now() - 7360000",
+    "name": "Trendy Mobile Pant",
+    "price": 870,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1745349476_S_4.jpg"
+  },
+  {
+    "id": "product-1971",
+    "createdAt": "Date.now() - 7370000",
+    "name": "Trendy Mobile Pant",
+    "price": 870,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1745349476_S_3.jpg"
+  },
+  {
+    "id": "product-1972",
+    "createdAt": "Date.now() - 7380000",
+    "name": "Trendy Mobile Pant",
+    "price": 870,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1745349476_S_2.jpg"
+  },
+  {
+    "id": "product-1973",
+    "createdAt": "Date.now() - 7390000",
+    "name": "Trendy Mobile Pant",
+    "price": 870,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1745349476_S_1.jpg"
+  },
+  {
+    "id": "product-1974",
+    "createdAt": "Date.now() - 7400000",
+    "name": "Trendy Mobile Pant",
+    "price": 1070,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1745349165_S_3.jpg"
+  },
+  {
+    "id": "product-1975",
+    "createdAt": "Date.now() - 7410000",
+    "name": "Trendy Mobile Pant",
+    "price": 1070,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1745349165_S_2.jpg"
+  },
+  {
+    "id": "product-1976",
+    "createdAt": "Date.now() - 7420000",
+    "name": "Trendy Mobile Pant",
+    "price": 1070,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1745349164_S_1.jpg"
+  },
+  {
+    "id": "product-1977",
+    "createdAt": "Date.now() - 7430000",
+    "name": "Semi Narrow Slim Fit Denim Pant",
+    "price": 700,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1729876176_S_5.jpg"
+  },
+  {
+    "id": "product-1978",
+    "createdAt": "Date.now() - 7440000",
+    "name": "Semi Narrow Slim Fit Denim Pant",
+    "price": 700,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1729876176_S_4.jpg"
+  },
+  {
+    "id": "product-1979",
+    "createdAt": "Date.now() - 7450000",
+    "name": "Semi Narrow Slim Fit Denim Pant",
+    "price": 700,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1729876176_S_3.jpg"
+  },
+  {
+    "id": "product-1980",
+    "createdAt": "Date.now() - 7460000",
+    "name": "Semi Narrow Slim Fit Denim Pant",
+    "price": 700,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1729876176_S_2.jpg"
+  },
+  {
+    "id": "product-1981",
+    "createdAt": "Date.now() - 7470000",
+    "name": "Semi Narrow Slim Fit Denim Pant",
+    "price": 700,
+    "category": "প্যান্ট",
+    "description": "Fabric: Premium Quality Twill Cotton.\nComfortable and stylish for everyday wear.\nAvailable Sizes: 30, 32, 34, 36.\n\nSize Chart (Waist):\nSize 30: Waist-30\", Length-39\"\nSize 32: Waist-32\", Length-40\"\nSize 34: Waist-34\", Length-41\"\nSize 36: Waist-36\", Length-41\"\n\nOrder Process:\nTo order, please send us your name, address, phone number, and desired size.\nDelivery within Dhaka: 2 days.\nDelivery outside Dhaka: 3-5 days.\n\nFor any questions, call: 📞 01XXXX-XXXXXX",
+    "imageUrl": "https://shopbasebd.com/public/uploads/shop/products/1729876176_S_1.jpg"
+  },
+
+
+
+
   
 
 ];
